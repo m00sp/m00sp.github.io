@@ -6,22 +6,11 @@ compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
-theme = "particle"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
 # Put all your custom variables here
-# Site settings
-description = "Esta é meu site portfolio com cv e tudo"
-
-# User settings
-username = "Luis TI"
-user_description = "Programador uruguaio morando em São Paulo"
-user_title = "Hardware e Software"
-email = "ngawang.monlam@gmail.com"
-twitter_username = "lorem_ipsum"
-github_username = "m00sp"
-gplus_username = "lorem_ipsum"
