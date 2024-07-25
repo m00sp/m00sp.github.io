@@ -20,8 +20,8 @@
   $enable-icons: true,// false disables ALL icons
   $ic: true,// true for colorized icons, otherwise #888 is used.
 
-  $icon-rss: true,
-  $icon-mail: false,// e-mail
+  $icon-rss: false,
+  $icon-mail: true,// e-mail
   $icon-mastodon: false,
   $icon-element: false,
   $icon-matrix: false,
@@ -29,11 +29,11 @@
   $icon-kofi: false,
   $icon-twitter: false,
   $icon-facebook: false,
-  $icon-linkedin: false,
+  $icon-linkedin: true,
   $icon-codeberg: false,
   $icon-gitlab: false,
-  $icon-github: false,
-  $icon-github-sponsor: false,
+  $icon-github: true,
+  $icon-github-sponsor: true,
   $icon-bitbucket: false,
   $icon-python: false,
   $icon-docker: false,
@@ -55,7 +55,7 @@
   //$icon-angr: true,//pagination, goto next page
   //$icon-angrr: true,//pagination, goto last page
   //$icon-angu: true,//back to top button, appears after scrolling down.
-  //$icon-world: true,//language select menu
+  $icon-world: true,//language select menu
   //$icon-copy: true,//copy to clipboard, for code blocks.
 
   //$icon-ffolder: false,
