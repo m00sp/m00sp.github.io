@@ -8,7 +8,7 @@ title = "Luis TI"
 description = "Hardware e Software"
 theme = "abridge"
 
-default_language = "pt"
+default_language = "en"
 compile_sass = true
 minify_html = false
 build_search_index = true
@@ -69,17 +69,31 @@ taxonomies = [
     {name = "tags", feed = true},
 ]
 
-[languages.en]
+##[languages.en]
+##title = "Luis TI"
+##description = "Hardware and Software"
+##generate_feeds = true
+##build_search_index = true
+##search.include_title = true # include title of page/section in index
+##search.include_description = true # include description of page/section in index
+##search.include_content = true # include rendered content of page/section in index
+### search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
+##taxonomies = [
+###    {name = "categories", feed = true},
+    ##{name = "tags", feed = true},
+##]
+
+[languages.pt]
 title = "Luis TI"
-description = "Hardware and Software"
+description = "Hardware e Software"
 generate_feeds = true
 build_search_index = true
 search.include_title = true # include title of page/section in index
 search.include_description = true # include description of page/section in index
 search.include_content = true # include rendered content of page/section in index
-# search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
+# search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.#
 taxonomies = [
-#    {name = "categories", feed = true},
+##    {name = "categories", feed = true},
     {name = "tags", feed = true},
 ]
 
