@@ -5,8 +5,17 @@ path = "contact"
 template = "pages.html"
 draft = false
 +++
-
 <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
+<p>Location</p>
+<p>Send me an E-Mail</p>
+<p>Call me on Whatsapp</p>
+
+<a aria-label="Chat on WhatsApp" href="https://wa.me/5511933014430"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" />
+<a />
+
+{{ img(src="icons/ferris-happy.svg" class="ci" alt="Ferris is Happy") }}
+{{ img(src="/static/icons/ChatOnWhatsAppButton/WhatsAppButtonGreenLarge.svg" class="ci" alt="nnn") }}
+
 <form name="contact" method="POST">
   <p>
     <label for="name">Name</label>
