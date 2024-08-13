@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-description = "Pour nous joindre, veuillez utiliser le formulaire de contact sur cette page."
+description = "To reach us please use the contact form on this page."
 path = "fr/contact"
 template = "pages.html"
 draft = false
@@ -10,25 +10,25 @@ draft = false
 <p>Location</p>
 
 <a aria-label="" href="https://maps.app.goo.gl/2jhxeaV6scHKJsFY9">
-{{ img(src="vector-location-icon.png" class="ci" alt="Location" w="150" h="200") }}
+{{ img(src="/icons/vector-location-icon.png" class="ci" alt="Location" w="150" h="200") }}
 <a />
 
 <p>Send me an E-Mail</p>
 
 <a aria-label="" href="mailto:ngawang.monlam@gmail.com">
-{{ img(src="mail-icon.png" class="ci" alt="Location" w="150" h="200") }}
+{{ img(src="/icons/mail-icon.png" class="ci" alt="Location" w="150" h="200") }}
 <a />
 
 <p>Call me on Whatsapp, here. </p>
 
 <a aria-label="Chat on WhatsApp" href="https://wa.me/5511933014430">
-{{ imgswap(main_src="WhatsAppButtonGreenLarge.svg" swap_src="WhatsAppButtonWhiteLarge.svg" class="ci") }}
+{{ imgswap(main_src="/icons/WhatsAppButtonGreenLarge.svg" swap_src="/icons/WhatsAppButtonWhiteLarge.svg" class="ci") }}
 <a />
 
 <p>Or scan the QR code</p>
 
-{{ img(src="shared_qr_code.png" class="ci" alt="Chat on WhatsApp QR") }}
+{{ img(src="/icons/shared_qr_code.png" class="ci" alt="Chat on WhatsApp QR") }}
 
-{{ img(src="icons/ferris-happy.svg" class="ci" alt="Ferris is Happy") }}
+{{ img(src="/icons/ferris-happy.svg" class="ci" alt="Ferris is Happy") }}
 
 <p>Thanks</p>
