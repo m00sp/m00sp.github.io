@@ -1,7 +1,7 @@
 +++
 title = "Contact"
-description = "Pour nous joindre, veuillez utiliser le formulaire de contact sur cette page."
-path = "fr/contact"
+description = "To reach us please use the contact form on this page."
+path = "pt/contact"
 template = "pages.html"
 draft = false
 +++
