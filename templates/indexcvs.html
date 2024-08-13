@@ -2,8 +2,8 @@
 This Template Shows a paginated page of the Posts of a section with a short summary.
 This Template can also be used directly for the index eg: example.com/ or as the rendering template for Sections, eg: example.com/blog/  example.com/software/
 #}
-
 {%- extends "base.html" %}
+{% import "minhasmacros.html" as minhasmacros %}
 {%- set uglyurls = config.extra.uglyurls | default(value=false) -%}
 {%- if config.extra.offline %}{% set uglyurls = true %}{% endif %}
 
@@ -30,12 +30,14 @@ This Template can also be used directly for the index eg: example.com/ or as the
 {%- endblock seo %}
 
 
-
 {%- block content %}
     <div>
+        <div class="content">
+            {{ section.content | safe }}
+        </div>
     {%- for page in paginator.pages %}
       <article>
-        {{- macros::title_index(page=page, config=config) }}
+        {{- minhasmacros::m00title_index(page=page, config=config) }}
         {%- if config.extra.meta_index.position %}
         {%- if config.extra.meta_index.position == "top" or config.extra.meta_index.position == "both" %}
         {{- macros::meta_index(page=page, config=config) }}
