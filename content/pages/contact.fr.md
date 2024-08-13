@@ -5,7 +5,7 @@ path = "fr/contact"
 template = "pages.html"
 draft = false
 +++
-<p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
+<p>Vous voulez entrer en contact ? Remplissez le formulaire ci-dessous pour m'envoyer un message et je vous répondrai dans les plus brefs délais !</p>
 
 <p>Location</p>
 
