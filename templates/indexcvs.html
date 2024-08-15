@@ -4,31 +4,6 @@ This Template can also be used directly for the index eg: example.com/ or as the
 #}
 {%- extends "base.html" %}
 {% import "minhasmacros.html" as minhasmacros %}
-{%- set uglyurls = config.extra.uglyurls | default(value=false) -%}
-{%- if config.extra.offline %}{% set uglyurls = true %}{% endif %}
-
-{%- block seo %}
-  {{- super() }}
-
-  {%- if config.title %}
-    {%- set title = config.title %}
-  {%- else %}
-    {%- set title = "" %}
-  {%- endif %}
-
-  {%- if config.extra.title_addition and title %}
-    {%- set title_addition = title_separator ~ config.extra.title_addition %}
-  {%- elif config.extra.title_addition %}
-    {%- set title_addition = config.extra.title_addition %}
-  {%- else %}
-    {%- set title_addition = "" %}
-  {%- endif %}
-
-  {%- set description = config.description %}
-
-  {{- macros_seo::seo(config=config, title=title, title_addition=title_addition, description=description, is_home=true) }}
-{%- endblock seo %}
-
 
 {%- block content %}
     <div>
@@ -86,14 +61,5 @@ This Template can also be used directly for the index eg: example.com/ or as the
     {%- else %}
     {%- set section_item = get_section(path=sec ~ "_index." ~ lang ~ ".md") %}
     {%- endif %}
-    <div class="sblock">
-      <div class="blockdiv sticky">
-        <span class="b s150">{{ macros::translate(key="Recent", default="Recent", i18n=i18n) }}</span>
-        {%- set recent_items=config.extra.recent_items | default(value=9) -%}
-        {%- for page in section_item.pages | slice(end=recent_items) %}
-          {{- macros::page_listing(page=page, config=config) }}
-        {%- endfor %}
-      </div>
-    </div>
   {%- endif %}
 {%- endblock content %}

@@ -1,7 +1,7 @@
 +++
-title = "CV short"
-description = "Here you can see my short CV"
-date = "2024-08-14"
+title = "CV Extendido"
+description = "Aquí podés ver mi CV extendido el cual incluye el historial académico"
+date = "2024-08-12"
 updated = "2024-08-13"
 template = "cvs.html"
 draft = false
@@ -25,16 +25,16 @@ Luis Ricardo Martinez Diaz
 
 ----
 
-Skills
-------
+Habilidades
+-----------
 	Rust, Rust, Rust....
 	Rust, Rust, Rust....
 	
 
-Experience
-----------
+Experiencia
+-----------
 
-Since 2013
+Desde 2015
 :   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
     (Frankfurt am Main, Germany).
 
@@ -48,8 +48,8 @@ Since 2013
 
     Elaborated an UML spec for the refactoring of 20.000 lines of C++.
 
-Open Source Contributions
-----------------------------------
+Contribuciones Open Source
+--------------------------
 
 Rust
 :   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
@@ -68,7 +68,7 @@ Linux
 :   My daily operating system: I [blog](http://blog.chmd.fr) about it
     sometimes.
 
-Education
+Educación
 ---------
 
 2009-2012
