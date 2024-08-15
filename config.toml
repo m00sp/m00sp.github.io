@@ -106,21 +106,21 @@ taxonomies = [
 ###############################################################################
 username = "mimomu"
 user_title = "Software Developer"
-user_description = "Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy -up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo park VHS."
+user_description = "Bicycle rights irony actually neutra typewriter lyfaxidermy -up ugh bushwick chia lo-f Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo par."
 menu = [
-    {url = "home", name = "Home", slash = true, blank = false, size="s110"},
-    {url = "cvs", name = "CVs", slash = true, blank = false, size="s110"},
+    {url = "home", name = "_", slash = true, blank = false, size="s110"},
     {url = "archive", name = "Posts", slash = true, blank = false, size="s110"},
 #    {url = "categories", name = "Categories", slash = true, blank = false, size="s110"},
     {url = "tags", name = "Tags", slash = true, blank = false, size="s110"},
+    {url = "cvs", name = "CVs", slash = true, blank = false, size="s110"},
     {url = "contact", name = "Contact", slash = true, blank = false, size="s110"},
     {url = "about", name = "About", slash = true, blank = false, size="s110"},
 ]
 menu_footer = [
-    {url = "cvs", name = "CVs", slash = true, blank = false, size="s90"},
-    {url = "contact", name = "Contact", slash = true, blank = false, size="s90"},
     {url = "privacy", name = "Privacy", slash = true, blank = false, size="s90"},
     {url = "sitemap.xml", name = "Sitemap", slash = false, blank = true, size="s90"},
+    {url = "cvs", name = "CVs", slash = true, blank = false, size="s90"},
+    {url = "contact", name = "Contact", slash = true, blank = false, size="s90"},
     {url = "about", name = "About", slash = true, blank = false, size="s90"},
 ]
 
