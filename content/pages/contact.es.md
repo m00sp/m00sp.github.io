@@ -7,15 +7,24 @@ draft = false
 +++
 <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
 
-<p>Location</p>
-
+<p align="center">Mi Localización</p>
+{{ img(src="/icons/vector-location-icon.png" class="ci" alt="Location" w="50" h="50") }}
 <a aria-label="" href="https://maps.app.goo.gl/2jhxeaV6scHKJsFY9">
-{{ img(src="/icons/vector-location-icon.png" class="ci" alt="Location" w="150" h="200") }}
-<a />
+<p align="center">📍</a></p>
+
+<p align="center">Vila Matilde</p>
+<p align="center">San Pablo</p>
+<p align="center">Brasil</p>
+
+
 
 <p>Send me an E-Mail</p>
 
 <a aria-label="" href="mailto:ngawang.monlam@gmail.com">
+✉️ ngawang.monlam@gmail.com
+
+🔗 LinkedIn
+
 {{ img(src="/icons/mail-icon.png" class="ci" alt="Location" w="150" h="200") }}
 <a />
 
