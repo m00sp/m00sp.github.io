@@ -34,26 +34,26 @@ include_content = true      # include rendered content of page/section in index
 [markdown]
 highlight_code = true
 highlight_theme = "css"
-render_emoji = false
+render_emoji = true
 external_links_target_blank = true # rel="noopener"
 external_links_no_follow = false   # rel="nofollow"
 external_links_no_referrer = false # rel="noreferrer"
 smart_punctuation = false          # `...` to `…`, `"quote"` to `“curly”` etc
 
 # Any Extra language you do not use, delete or comment out the extra language sections:
-[languages.fr]
-title = "Luis TI"
-description = "Hardware e Software"
-generate_feeds = true
-build_search_index = true
-search.include_title = true # include title of page/section in index
-search.include_description = true # include description of page/section in index
-search.include_content = true # include rendered content of page/section in index
-# search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
-taxonomies = [
-#    {name = "categories", feed = true},
-    {name = "tags", feed = true},
-]
+#[languages.fr]
+#title = "Luis TI"
+#description = "Hardware e Software"
+#generate_feeds = true
+#build_search_index = true
+#search.include_title = true # include title of page/section in index
+#search.include_description = true # include description of page/section in index
+#search.include_content = true # include rendered content of page/section in index
+## search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
+#taxonomies = [
+##    {name = "categories", feed = true},
+    #{name = "tags", feed = true},
+#]
 
 [languages.es]
 title = "Luis TI"
@@ -104,8 +104,8 @@ taxonomies = [
 ### size: s150, s140, s130, s120, s110, s95, s90, s85, s80, s75, s70, false(full size)
 ### divider:    " "        "&middot;"        "&bull;"
 ###############################################################################
-username = "mimomu"
-user_title = "Software Developer"
+username = "Luis TI"
+user_title = "Hardware e Softwarer"
 user_description = "Bicycle rights irony actually neutra typewriter lyfaxidermy -up ugh bushwick chia lo-f Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo par."
 menu = [
     {url = "home", name = "_", slash = true, blank = false, size="s110"},
@@ -292,9 +292,9 @@ favicon_theme_color = "#333333"
 favicon_ms_color = "#333333"
 favicon_mask = "safari-pinned-tab.svg" # safari-pinned-tab.svg
 favicon_mask_color = "#ff9900"
-favicon_svg = "favicon.svg" # favicon.svg
+favicon_svg = "/icons/m00favicon.svg" # favicon.svg
 favicon180 = "apple-touch-icon.png" # apple-touch-icon.png
-favicon32 = "favicon-32x32.png" # favicon-32x32.png
+favicon32 = "/icons/m00favicon.png" # favicon-32x32.png
 favicon16 = "favicon-16x16.png" # favicon-16x16.png
 
 
