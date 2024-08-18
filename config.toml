@@ -4,7 +4,7 @@ base_url = "https://m00sp.github.io"
 # Also set index format = "elasticlunr_javascript", and in [extra] uglyurls = true, integrity = false
 # If you use the npm/node script then all you have to do is set offline = true, and everything else is automatic.
 
-title = "Luis TI"
+title = "Luis-TI.dev.br"
 description = "Hardware e Software"
 theme = "abridge"
 
@@ -105,7 +105,7 @@ taxonomies = [
 ### divider:    " "        "&middot;"        "&bull;"
 ###############################################################################
 username = "Luis TI"
-user_title = "Hardware e Softwarer"
+user_title = "Hardware e Software"
 user_description = "Bicycle rights irony actually neutra typewriter lyfaxidermy -up ugh bushwick chia lo-f Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo par."
 menu = [
     {url = "home", name = "_", slash = true, blank = false, size="s110"},
@@ -131,7 +131,7 @@ series = true
 series_items = 9 # Max number of items to display in series list, use 0 to disable
 #Series_parts = "$NUMBER_OF_PARTS part Series"
 
-#arrow_pagination = true # If set to true then the pagination will use the old arrows mode, be sure to also enable the icons.
+arrow_pagination = true # If set to true then the pagination will use the old arrows mode, be sure to also enable the icons.
 
 meta_index = { position="bottom", size="s90", author=false, readtime=false, readstring="min", date=true, updated=false, categories_tags=true, divider="" }
 meta_post = { position="top", size="s95", author=true, readtime=false, readstring="min read", date=true, updated=true, categories_tags=true, divider="" }
@@ -146,8 +146,8 @@ footer_credit = true
 
 ### Uncomment one of the below lines, or neither, depending on which type of logo you want to use:
 #logo = { file="logo.svg", width="32", height="32", alt="Abridge", text="bridge" }
-textlogo = 'Luis<font color="#f90">TI</font>'
-#textlogo = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#f90" viewBox="0 0 96 96" width="28" height="28"><path stroke-width="14" d="M14 99 46 7h4l32 92"/><path stroke-width="9" d="M-3 82c43-26 59-26 102 0"/><path stroke-linecap="round" stroke-width="1.5" d="M94 72v7m-5-9.8v7m-5-9.8v7.1M79 64v7M63 57.7v7m-5-8.2v7m-5-7.8v7m-5-7.2v7m-5-6.7v7m-5-6.3v7m-5-5.8v7M17 64v7m-5-4.6v7m-5-4.2v7M2 72v7"/></svg>bridge'
+textlogo = 'Luis-<font color="#f90">TI</font>.dev.br'
+#text.brlogo = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#f90" viewBox="0 0 96 96" width="28" height="28"><path stroke-width="14" d="M14 99 46 7h4l32 92"/><path stroke-width="9" d="M-3 82c43-26 59-26 102 0"/><path stroke-linecap="round" stroke-width="1.5" d="M94 72v7m-5-9.8v7m-5-9.8v7.1M79 64v7M63 57.7v7m-5-8.2v7m-5-7.8v7m-5-7.2v7m-5-6.7v7m-5-6.3v7m-5-5.8v7M17 64v7m-5-4.6v7m-5-4.2v7M2 72v7"/></svg>bridge'
 
 sitedesc = true # enables or disables the display of the site description below the logo.
 headhr = false # show or hide horizontal rule below header
@@ -317,11 +317,11 @@ favicon16 = "favicon-16x16.png" # favicon-16x16.png
 ### To disable any of these icons set them to "false" (will default to unicode icons instead)
 #icon_search = "svgs svgm search" # Search button in search box.
 #icon_adjust = "svgs adjust" # Theme Switcher button in top menu. (add class svgh to change colors on hover)
-#icon_first = "svgs svgh angll" # Pagination First Page.
-#icon_prev = "svgs svgh angl" # Pagination Previous Page.
-#icon_next = "svgs svgh angr" # Pagination Next Page.
-#icon_last = "svgs svgh angrr" # Pagination Last Page.
-#icon_top = "svgs svgh angu" # Back to Top Button.
+icon_first = "svgs svgh angll" # Pagination First Page.
+icon_prev = "svgs svgh angl" # Pagination Previous Page.
+icon_next = "svgs svgh angr" # Pagination Next Page.
+icon_last = "svgs svgh angrr" # Pagination Last Page.
+icon_top = "svgs svgh angu" # Back to Top Button.
 
 #icon_read = "svgs fa-solid fa-glasses" # displayed in metadata on index and below title on page.
 #icon_date = "svgs fa-solid fa-calendar" # displayed in metadata on index and below title on page.
