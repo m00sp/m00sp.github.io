@@ -8,7 +8,7 @@ draft = false
 
 <p align="center">Para comunicarte conmigo podés enviarme un E-Mail.</p>
 <p align="center">O un mensaje de WhatsApp o LinkedIn.</p>
-<p align="center">Personalmente, ofrezco asistencia técnica cerca de mi <a class="link" href="#ubicación" data-scroll> ubicación</a>.</p>
+<p align="center">Personalmente, ofrezco asistencia técnica cerca de <a class="link" href="#ubicación" data-scroll> Mi Ubicación</a>.</p>
 
 <h1 style="text-align: center;">E-Mail</h1>
 <p align="center">Enviame un E-Mail aquí</p>
