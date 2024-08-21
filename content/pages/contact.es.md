@@ -5,11 +5,12 @@ path = "es/contact"
 template = "pages.html"
 draft = false
 +++
-
+<br>
 <p align="center">Personalmente, ofrezco asistencia técnica cerca de <a class="link" href="#ubicación" data-scroll> Mi Ubicación</a>.</p>
-<p align="center">Para comunicarte conmigo podés enviarme un <a class="link" href="#mail" data-scroll>E-Mail.</a></p>
-<p align="center">Mandarme un mensaje de <a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
-<p align="center">O contactarme por <a class="link" href="#linkedin" data-scroll>LinkedIn.</a></p>
+<p style="text-align: center;">Para trabajo remoto, presupuesto de servicios, o contrataciones utilize uno de los siguientes medios de contacto:</p>
+<p align="center"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
+<p align="center"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
+<p align="center"><a class="link" href="#linkedin" data-scroll>LinkedIn.</a></p>
 
 <h1 style="text-align: center;"><a name="mail">E-Mail</a></h1>
 </br>
@@ -36,6 +37,7 @@ draft = false
 {{ img(src="/icons/m00linkedin-laranja.png" class="ci" alt="LinkedIn" w=50 h=50) }}
 </a>
 <h1 style="text-align: center;"><a name="ubicación">Mi Ubicación</a></h1>
+<br>
 <a aria-label="" href="https://maps.app.goo.gl/2jhxeaV6scHKJsFY9">
 {{ img(src="/icons/vector-location-icon.png" class="ci" alt="Location" w="50" h="50") }}
 </a>
@@ -48,4 +50,4 @@ draft = false
 <p align="center">Gracias, por tu visita, hasta la próxima.</p>
 
 
-**Fecha Efectiva:** _1st Jan 2022_
+**Fecha Efectiva:** _21 Ago 2024_
