@@ -1,6 +1,6 @@
 +++
-title = "Contact"
-description = "To reach us please use the contact form on this page."
+title = "Contato"
+description = "Para entrar en contato conmigo, utilize um dos links nesta página."
 path = "pt/contact"
 template = "pages.html"
 draft = false

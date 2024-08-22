@@ -1,15 +1,16 @@
 +++
-title = "Privacy Policy"
-description = "This page outlines the Privacy Policy for this site, and the date at which this policy was put into affect."
-path = "privacy.en"
+title = "Política de Privacidade"
+description = "Esta página descreve a Política de Privacidade deste site e a data em que essa política foi colocada em vigor."
+path = "pt/privacy"
 template = "pages.html"
 draft = false
 +++
 
-## Privacy
+## Privacidade
 
-- This site does not set or use cookies.
-- This site does not store data in the browser to be shared, sent, or sold to third-parties.
-- No personal information is shared, sent, or sold to third-parties.
 
-**Effective Date:** _1st Jan 2022_
+- Este site não define ou usa cookies.
+- Este site não armazena dados no navegador para serem compartilhados, enviados ou vendidos a terceiros.
+- Nenhuma informação pessoal é compartilhada, enviada ou vendida a terceiros.
+
+**Data de Vigência:** _22 Ago 2024_

@@ -1,13 +1,13 @@
 +++
-title = "Contact"
-description = "To reach us please use the contact form on this page."
+title = "Contacto"
+description = "Para entrar en contacto conmigo, utilice los links de contacto en esta página."
 path = "es/contact"
 template = "pages.html"
 draft = false
 +++
 <br>
 <p align="center">Personalmente, ofrezco asistencia técnica cerca de <a class="link" href="#ubicación" data-scroll> Mi Ubicación</a>.</p>
-<p style="text-align: center;">Para trabajo remoto, presupuesto de servicios, o contrataciones utilize uno de los siguientes medios de contacto:</p>
+<p style="text-align: center;">Para trabajo remoto, presupuesto de servicios, o contrataciones utilice uno de los siguientes medios de contacto:</p>
 <p align="center"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
 <p align="center"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
 <p align="center"><a class="link" href="#linkedin" data-scroll>LinkedIn.</a></p>
@@ -26,7 +26,7 @@ draft = false
 {{ imgswap(main_src="/icons/WhatsAppButtonGreenLarge.svg" swap_src="/icons/WhatsAppButtonWhiteLarge.svg" class="ci") }}
 </a>
 <br>
-<p style="text-align: center;">🔻 O scanéa el QR code aquí 🔻</p>
+<p style="text-align: center;">🔻 O escanea el QR code aquí 🔻</p>
 
 {{ img(src="/icons/shared_qr_code.png" class="ci" alt="Chat on WhatsApp QR" w=150 h=150) }}
 
