@@ -49,5 +49,3 @@ draft = false
 
 <p align="center">Gracias, por tu visita, hasta la próxima.</p>
 
-
-**Fecha Efectiva:** _21 Ago 2024_

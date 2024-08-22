@@ -52,5 +52,3 @@ draft = false
 
 <p style="text-align: center;">Obrigado, pela visita, até já.</p>
 
-
-**Fecha Efetiva:** _21 Ago 2024_

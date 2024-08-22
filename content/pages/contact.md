@@ -52,5 +52,3 @@ draft = false
 
 <p style="text-align: center;">Thank you for your visit, have a nice day.</p>
 
-
-**Effective Date:** _21 Ago 2024_
