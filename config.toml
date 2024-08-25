@@ -112,14 +112,14 @@ menu = [
     {url = "archive", name = "Posts", slash = true, blank = false, size="s110"},
 #    {url = "categories", name = "Categories", slash = true, blank = false, size="s110"},
     {url = "tags", name = "Tags", slash = true, blank = false, size="s110"},
-    {url = "cvs", name = "CVs", slash = true, blank = false, size="s110"},
+    {url = "cv", name = "CV", slash = true, blank = true, size="s110"},
     {url = "contact", name = "Contact", slash = true, blank = false, size="s110"},
     {url = "about", name = "About", slash = true, blank = false, size="s110"},
 ]
 menu_footer = [
     {url = "privacy", name = "Privacy", slash = true, blank = false, size="s90"},
     {url = "sitemap.xml", name = "Sitemap", slash = false, blank = true, size="s90"},
-    {url = "cvs", name = "CVs", slash = true, blank = false, size="s90"},
+    {url = "cv", name = "CV", slash = true, blank = true, size="s90"},
     {url = "contact", name = "Contact", slash = true, blank = false, size="s90"},
     {url = "about", name = "About", slash = true, blank = false, size="s90"},
 ]
@@ -317,11 +317,11 @@ favicon16 = "favicon-16x16.png" # favicon-16x16.png
 ### To disable any of these icons set them to "false" (will default to unicode icons instead)
 #icon_search = "svgs svgm search" # Search button in search box.
 #icon_adjust = "svgs adjust" # Theme Switcher button in top menu. (add class svgh to change colors on hover)
-icon_first = "svgs svgh angll" # Pagination First Page.
-icon_prev = "svgs svgh angl" # Pagination Previous Page.
-icon_next = "svgs svgh angr" # Pagination Next Page.
-icon_last = "svgs svgh angrr" # Pagination Last Page.
-icon_top = "svgs svgh angu" # Back to Top Button.
+#icon_first = "svgs svgh angll" # Pagination First Page.
+#icon_prev = "svgs svgh angl" # Pagination Previous Page.
+#icon_next = "svgs svgh angr" # Pagination Next Page.
+#icon_last = "svgs svgh angrr" # Pagination Last Page.
+#icon_top = "svgs svgh angu" # Back to Top Button.
 
 #icon_read = "svgs fa-solid fa-glasses" # displayed in metadata on index and below title on page.
 #icon_date = "svgs fa-solid fa-calendar" # displayed in metadata on index and below title on page.
