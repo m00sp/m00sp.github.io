@@ -17,8 +17,8 @@ toc = false
 
 ---
 >E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil. </br> Sitio web personal: [www.luis-ti.dev.br](https://www.luis-ti.dev.br).
----
-
+----
+----
 #### **Habilidades**
 -------
 ----
@@ -26,26 +26,31 @@ Lenguajes de programación y Tecnologías
 :	Rust, Posix shell, Lua, Docker, git, Makefile. </br>
 OSes:	Linux, windows, macOS y android. Mi sistema operativo de uso diario es Alpine Linux.</br>
 Idiomas
-:   *Inglés* y *Portugués*. Nivel avanzado y fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
+:   *Inglés* y *Portugués*. Nivel fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
 
 ----
-
+----
 #### **Experiencia**
 -----------
 ----
 2010
-:   Gerente en *Verdecred Inc.* (Buenos Aires, Argentina).
+:   Acá ya va otra cosa.
 
-- Gerente general y de ventas. Atención al cliente y estrategias de marketing directo.
+- Acá también.
 
 ----
 2006-2010
-:   Gerente en *Dominus Mercedes Inc.* (Buenos Aires, Argentina).
+:   Financieras *OriginalCred*  *Dominus Mercedes Inc.* *Niagus* *VerdeCred* (Buenos Aires, Argentina).
 
 - Gerente general. Asistencia técnica a comercios y adhesión de los mismos al sistema de créditos dirigido.
+
 ----
+2002-2006 *[ILVEM](https://ilvem.com/)* (Capital Federal, Buenos Aires, Argentina)
 
+- Profesor de cursos de lectura veloz y memoria. Demostrativas en capital federal y el interior del país para la franquicia Ilvem interior. Ventas de curso, capacitación y asesoramiento de alumnos y vendedores.
 
+----
+----
 #### **Educación**
 ----
 ----
@@ -57,12 +62,15 @@ Idiomas
 :       *Técnico Electromecánico.* E.E.T Nº 2 Alemania (Escuela de Educación Técnica), Buenos Aires, Argentina.
 
 ----
-
-#### **Contibuciones Open Source**
+----
+#### **Contribuciones Open Source**
 ----
 ----
 2024
-:   Traduciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras.
-- Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
+:   Traducciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras. Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
+----
+2024
+:	Mis projectos: *[m00wm](https://github.com/m00sp/m00wm)*, un gestor de ventanas en mosaico escrito en el lenguaje de programación Rust para el sistema operativo *[Alpine Linux](https://alpinelinux.org)* integrable con *[Plasma Desktop](https://kde.org/plasma-desktop/)* de *[KDE](https://kde.org)*.
+
 
 ----
