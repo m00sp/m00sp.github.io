@@ -23,13 +23,10 @@ toc = false
 -------
 ----
 Lenguajes de programación y Tecnologías
-:	Rust, Posix shell, Lua, Docker, git, Makefile.
-OSes:	Linux, windows, macOS y android.
-
-----
+:	Rust, Posix shell, Lua, Docker, git, Makefile. </br>
+OSes:	Linux, windows, macOS y android. Mi sistema operativo de uso diario es Alpine Linux.</br>
 Idiomas
-:   *Inglés* y *Portugués*
-- Nivel avanzado y fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
+:   *Inglés* y *Portugués*. Nivel avanzado y fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
 
 ----
 
@@ -69,7 +66,3 @@ Idiomas
 - Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
 
 ----
-Linux
-:	Alpine.
-- Mi sistema operativo de uso diario es Alpine Linux.
------
