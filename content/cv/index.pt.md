@@ -14,12 +14,12 @@ toc = false
 +++
 
 ## <center>Luis Ricardo Martínez Díaz</center>
-
----
->E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Localização: Vila Matilde, SP, Brasil.
 ---
 
-### Experiência
+>E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Localização: Vila Matilde, SP, Brasil. </br> Site: [www.luis-ti.dev.br](https://www.luis-ti.com.br).
+---
+
+#### Experiência
 -----------
 ----
 2010
@@ -34,7 +34,7 @@ toc = false
 - Manager. Attention to businesses and their adhesion to the credit system..
 ----
 
-### Contribuições Open Source
+#### Contribuições Open Source
 ----
 ----
 2024
@@ -52,7 +52,7 @@ Linux
 - My daily operating system is Alpine Linux.
 ----
 
-### Educação
+#### Educação
 ----
 ----
 2004-2014

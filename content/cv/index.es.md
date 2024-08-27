@@ -16,50 +16,58 @@ toc = false
 ## <center>Luis Ricardo Martínez Díaz</center>
 
 ---
->E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil.
+>E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil. </br> Sitio web personal: [www.luis-ti.dev.br](https://www.luis-ti.dev.br).
 ---
+
+### Habilidades
+-------
+----
+agregar aquí
+
+----
 
 ### Experiencia
 -----------
 ----
 2010
-:   Manager at *Verdecred Inc.* (Buenos Aires, Argentina).
+:   Gerente en *Verdecred Inc.* (Buenos Aires, Argentina).
 
-- Customer Service. Sales Manager and direct marketing strategies.
+- Gerente general y de ventas. Atención al cliente y estrategias de marketing directo.
 
 ----
 2006-2010
-:   Manager at *Dominus Mercedes Inc.* (Buenos Aires, Argentina).
+:   Gerente en *Dominus Mercedes Inc.* (Buenos Aires, Argentina).
 
-- Manager. Attention to businesses and their adhesion to the credit system..
+- Gerente general. Asistencia técnica a comercios y adhesión de los mismos al sistema de créditos dirigido.
+----
+
+
+### Educación
+----
+----
+2004-2014
+:       *Licenciatura y profesorado en Filosofía, incompleto.* UNSAM (Universidad Nacional de San Martín), Buenos Aires, Argentina.
+
+----
+1997-2002
+:       *Técnico Electromecánico.* E.E.T Nº 2 Alemania (Escuela de Educación Técnica), Buenos Aires, Argentina.
+
 ----
 
 ### Contibuciones Open Source
 ----
 ----
 2024
-:   Translation's Contributor to *[Abridge](https://github.com/jieiku/abridge),*
-- A multilingüal [Zola](https://getzola.org) theme.
+:   Traduciones para *[Abridge](https://github.com/jieiku/abridge), [rustdesk](https://github.com/rustdesk/rustdesk-server-demo), entre otras.*
+- Colaboro con diversas traducciones al español y al portugués para projectos de código abiertoi, la mayoría disponível en github.
 
 ----
 Misc
-:   *Lua, Shell, Makefile*
+:   *Lua, Posix Shell, Makefile*
 - top 2% of opensource developers.
 
 ----
 Linux
 :	Alpine.
--My daily operating system is Alpine Linux.
+- Mi sistema operativo de uso diario es Alpine Linux.
 -----
-
-### Educación
-----
-----
-2004-2014
-:       *Bachelor's degree in philosophy, incomplete.* UNSAM (National University of San Martín), Buenos Aires, Argentina.
-
-----
-1997-2002
-:       *Electromechanical technician.* E.E.T Nº 2 Alemania (School Of Technical Education), Buenos Aires, Argentina.
-
-----

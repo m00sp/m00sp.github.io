@@ -16,7 +16,7 @@ toc = false
 ## <center>Luis Ricardo Martínez Díaz</center>
 
 ---
->E-mail: <ngawang.monlam@gmail.com>. | Mobile: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Location: Vila Matilde, SP, Brazil.
+>E-mail: <ngawang.monlam@gmail.com>. | Mobile: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Location: Vila Matilde, SP, Brazil. </br> Site: [www.luis-ti.dev.br](https://www.luis-ti.dev.br)
 ---
 
 ### Experience
@@ -39,7 +39,7 @@ toc = false
 ----
 2024
 :   Translation's Contributor to *[Abridge](https://github.com/jieiku/abridge),*
-- A multilingüal [Zola](https://getzola.org) theme.
+- A multilingual [Zola](https://getzola.org) theme.
 ----
 
 Misc
@@ -49,7 +49,7 @@ Misc
 -----
 Linux
 :	Alpine.
--My daily operating system is Alpine Linux.
+- My daily operating system is Alpine Linux.
 ----
 
 ### Education
