@@ -19,14 +19,21 @@ toc = false
 >E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil. </br> Sitio web personal: [www.luis-ti.dev.br](https://www.luis-ti.dev.br).
 ---
 
-### Habilidades
+#### **Habilidades**
 -------
 ----
-agregar aquí
+Lenguajes de programación y Tecnologías
+:	Rust, Posix shell, Lua, Docker, git, Makefile.
+OSes:	Linux, windows, macOS y android.
+
+----
+Idiomas
+:   *Inglés* y *Portugués*
+- Nivel avanzado y fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
 
 ----
 
-### Experiencia
+#### **Experiencia**
 -----------
 ----
 2010
@@ -42,11 +49,11 @@ agregar aquí
 ----
 
 
-### Educación
+#### **Educación**
 ----
 ----
 2004-2014
-:       *Licenciatura y profesorado en Filosofía, incompleto.* UNSAM (Universidad Nacional de San Martín), Buenos Aires, Argentina.
+:       *Licenciatura y profesorado en Filosofía*, **incompleto**. UNSAM (Universidad Nacional de San Martín), Buenos Aires, Argentina.
 
 ----
 1997-2002
@@ -54,17 +61,12 @@ agregar aquí
 
 ----
 
-### Contibuciones Open Source
+#### **Contibuciones Open Source**
 ----
 ----
 2024
-:   Traduciones para *[Abridge](https://github.com/jieiku/abridge), [rustdesk](https://github.com/rustdesk/rustdesk-server-demo), entre otras.*
-- Colaboro con diversas traducciones al español y al portugués para projectos de código abiertoi, la mayoría disponível en github.
-
-----
-Misc
-:   *Lua, Posix Shell, Makefile*
-- top 2% of opensource developers.
+:   Traduciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras.
+- Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
 
 ----
 Linux
