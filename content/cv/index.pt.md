@@ -1,6 +1,6 @@
 +++
 title = "CV"
-description = "Here you can see my CV"
+description = "Aqui você pode ver meu CV"
 date = "2024-08-14"
 updated = "2024-08-13"
 template = "cvs.html"
@@ -13,13 +13,13 @@ keywords = "CV"
 toc = false
 +++
 
-## <center>Luis Ricardo Martínez Díaz</center>
+## <center>Luis Ricardo Martinez Diaz</center>
 
 ---
->E-mail: <ngawang.monlam@gmail.com>. | Mobile: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Location: Vila Matilde, SP, Brazil.
+>E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Localização: Vila Matilde, SP, Brasil.
 ---
 
-### Experience
+### Experiência
 -----------
 ----
 2010
@@ -34,7 +34,7 @@ toc = false
 - Manager. Attention to businesses and their adhesion to the credit system..
 ----
 
-### Open Source Contributions
+### Contribuições Open Source
 ----
 ----
 2024
@@ -49,7 +49,7 @@ Linux
 :   My daily operating system is Alpine Linux.
 ----
 
-### Education
+### Educação
 ----
 ----
 2004-2014
