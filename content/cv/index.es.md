@@ -41,18 +41,25 @@ toc = false
 :   Translation's Contributor to *[Abridge](https://github.com/jieiku/abridge),*
 - A multilingüal [Zola](https://getzola.org) theme.
 
+----
 Misc
 :   *Lua, Shell, Makefile*
 - top 2% of opensource developers.
 
+----
 Linux
-:   My daily operating system is Alpine Linux.
+:	Alpine.
+-My daily operating system is Alpine Linux.
+-----
 
-### Educacion
+### Educación
 ----
 ----
 2004-2014
 :       *Bachelor's degree in philosophy, incomplete.* UNSAM (National University of San Martín), Buenos Aires, Argentina.
 
+----
 1997-2002
 :       *Electromechanical technician.* E.E.T Nº 2 Alemania (School Of Technical Education), Buenos Aires, Argentina.
+
+----
