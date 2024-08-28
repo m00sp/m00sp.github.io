@@ -68,9 +68,10 @@ Idiomas
 ----
 2024
 :   Traducciones para *[Abridge](https://github.com/jieiku/abridge)*, *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras. Colaboro con diversas traducciones al español y al portugués para projectos de código abierto y/o código, la mayoría disponível en github.
+
 ----
 2024
-:	Mis projectos: *[m00wm](https://github.com/m00sp/m00wm)*, un gestor de ventanas en mosaico escrito en el lenguaje de programación Rust para el sistema operativo *[Alpine Linux](https://alpinelinux.org)* integrable con *[Plasma Desktop](https://kde.org/plasma-desktop/)* de *[KDE](https://kde.org)*.
+:	Mis projectos: *[m00wm](https://github.com/m00sp/m00wm)*, un gestor de ventanas en mosaico escrito en el lenguaje de programación *[Rust](https://rust-lang.org)* para el sistema operativo *[Alpine Linux](https://alpinelinux.org)* integrable con *[Plasma Desktop](https://kde.org/plasma-desktop/)* de *[KDE](https://kde.org)*.
 
 
 ----
