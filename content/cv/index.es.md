@@ -26,7 +26,7 @@ toc = false
 :	Rust, Posix shell, Lua, Docker, git, Makefile, k8s, HTML, SSH, Markdown, SASS, CSS. </br>
 - **OSes**:	Linux, Windows, macOS y Android. Mi sistema operativo de uso diario es Alpine Linux. </br>
 - **Idiomas**
-:   *Inglés* y *Portugués*. Nivel fluente en ambas lenguas, tanto en forma escrita cuanto hablada.
+:   *Inglés* y *Portugués*. Nivel avanzado, hablado y escrito.
 
 ----
 ----
@@ -35,21 +35,21 @@ toc = false
 ----
 2015-Presente
 :	Prgramador Autónomo e asistencia técnica, personal y remota.
-- Asistencia técnica directa en Hardware y Software. **Hardware**, computadores de escritorio y notebooks, manuntención general, limpieza y actualización. Cambios de HDs hasta procesadores, adición de memoria RAM, etc. **Software**,  administración de sistemas operativos Linux y Windows NT, migración de datos, copias de respaldo en general, escaneo y monitoreo de redes, configuración de servicios varios.
+- Asistencia técnica directa en Hardware y Software. **Hardware**, computadores de escritorio y notebooks, manuntención general, limpieza y actualización. Cambios de HDs hasta procesadores, adición de memoria RAM, etc. **Software**,  administración de sistemas operativos Linux, Android y Windows NT, migración de datos, copias de respaldo en general, escaneo y monitoreo de redes, configuración de servicios varios.
 
 2014
-:	Fuerza Bruta Wayra CCR (Centro Cultural Recoleta).
-- Rigger. Técnico de altura. Durante el cierre de año.
+:	Fuerza Bruta Wayra CCR (Centro Cultural Recoleta), Capital Federal, Buenos Aires, Argentina.
+- Rigger. Técnico de seguridad en altura. Durante el cierre de año.
 
 2014
-:	Plan Fines.
+:	Plan [FinEs](https://www.argentina.gob.ar/educacion/fines), Buenos Aires, Argentina.
 - Profesor de diversas materias durante todo el año en diferentes polos educativos.
 
 2011-2013
-:   UNSAM (Universidad Nacional de San Martín).
+:   [UNSAM Escuela de humanidades](https://www.unsam.edu.ar/escuelas/eh/), (Universidad Nacional de San Martín), Buenos Aires, Argentina.
 
-- Docencia, ayudante de cátedra. Materia: Lógica.
-- Becario del Consejo Interuniversitario Nacional (CIN). Beca de estimulo a la vocación científica.
+- Docencia: ayudante de cátedra. Materia: Lógica.
+- Becario del [CIN](https://www.cin.edu.ar/) (Consejo Inteuniversitario Nacional). Estimulo a la vocación científica.
 
 ----
 2006-2010
