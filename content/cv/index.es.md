@@ -34,11 +34,11 @@ toc = false
 -----------
 ----
 2015-Presente
-:	Prgramador Autónomo e asistencia técnica.
-- Asistencia técnica directa en Hardware e Software.
+:	Prgramador Autónomo e asistencia técnica, personal y remota.
+- Asistencia técnica directa en Hardware y Software. **Hardware** Computadores de escritorio y notebooks, manuntención general, limpieza y actualización. Cambios de HDs hasta procesadores, adición de memoria RAM, etc. **Software** Actualización de sistemas operativos, migración de datos (copias de respaldo en general), encriptado, escaneo y monitoreado de redes, configuración de servios varios.
 
 2014
-:	Fuerza Bruta Función Aqua CCR (Centro Cultural Recoleta).
+:	Fuerza Bruta Wayra CCR (Centro Cultural Recoleta).
 - Rigger. Técnico de altura. Durante el cierre de año.
 
 2014
