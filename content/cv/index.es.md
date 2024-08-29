@@ -34,8 +34,8 @@ toc = false
 -----------
 ----
 2015-Presente
-:	Prgramador Autónomo e asistencia técnica, personal y remota.
-- Asistencia técnica directa en Hardware y Software. **Hardware**, computadores de escritorio y notebooks, manuntención general, limpieza y actualización. Cambios de HDs hasta procesadores, adición de memoria RAM, etc. **Software**,  administración de sistemas operativos Linux, Android y Windows NT, migración de datos, copias de respaldo en general, escaneo y monitoreo de redes, configuración de servicios varios.
+:	Trabajando como Prgramador Autónomo y brindando asistencia técnica, presencial y remota, a usuarios finales.
+- Soporte técnico directo en Hardware y Software. **Hardware**, computadores de escritorio y notebooks, manuntención, limpieza, actualización y optimización. Cambios, HDs, placas de video, procesadores, adición de memoria RAM, etc. **Software**,  administración de sistemas operativos Linux, Android y Windows NT, migración de datos, copias de respaldo, escaneo y monitoreo de redes, configuración de servicios varios.
 
 2014
 :	Fuerza Bruta Wayra CCR (Centro Cultural Recoleta), Capital Federal, Buenos Aires, Argentina.
