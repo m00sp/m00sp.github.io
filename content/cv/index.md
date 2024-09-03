@@ -7,7 +7,7 @@ template = "cvs.html"
 draft = false
 
 [taxonomies]
-tags = ["Features"]
+tags = ["CV"]
 [extra]
 keywords = "CV"
 toc = false

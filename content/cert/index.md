@@ -6,13 +6,11 @@ updated = 2024-09-03
 draft = false
 
 [taxonomies]
-tags = ["Features","Shortcodes","Mathematics"]
+tags = ["Linux"]
 [extra]
-math = true
-math_auto_render = true
-keywords = "Math, Matematics, Notation, KaTeX, Mathematical Notation"
+keywords = "Linux, Foundation, Certificates, Completion"
 toc = true
-series = "Features"
+series = "Linux"
 +++
 
 All my certificates of completion from [The Linux Foundation](https://trainingportal.linuxfoundation.org/).
