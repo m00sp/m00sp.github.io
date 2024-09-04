@@ -1,40 +1,9 @@
-h1 {  
-  color: red;  
-}
-
-/*
-[aria-busy] {
-  transition: opacity 0.2s linear;
-  position: relative;
-}
-
-[aria-busy="true"] * {
-  opacity: 0.7;
-}
-
-[aria-busy="true"]:before {
-  content: '';
-  display: block;
-  border: 6px solid transparent;
-  border-top-color: orange;
-  width: 75px;
-  height: 75px;
-  border-radius: 50%;
-  animation: spin 1.2s infinite linear;
-  position: absolute;
-  left: calc(50% - 18px);
-  top: calc(50% - 18px);
-}
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
-}
-*/
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Center the loader */
 #loader {
   position: absolute;
   left: 50%;
@@ -45,7 +14,7 @@ h1 {
   margin: -76px 0 0 -76px;
   border: 16px solid #f3f3f3;
   border-radius: 50%;
-  border-top: 16px solid #3498db;
+  border-top: 16px solid #f90;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
 }
@@ -83,3 +52,30 @@ h1 {
   display: none;
   text-align: center;
 }
+</style>
+</head>
+<body onload="myFunction()" style="margin:0;">
+
+<div id="loader"></div>
+
+<div style="display:none;" id="myDiv" class="animate-bottom">
+  <h2>Tada!</h2>
+  <p>Adicionar macros aqui para carregar conteúdo. Ver templates/m00loader..</p>
+</div>
+
+<script>
+var myVar;
+
+function myFunction() {
+  myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
+
+</body>
+</html>
+
