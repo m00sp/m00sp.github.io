@@ -14,7 +14,7 @@ draft = false
 
 <h1 style="text-align: center;"><a name="mail">E-Mail</a></h1>
 </br>
-<p align="center"><a aria-label="" href="mailto:ngawang.monlam@gmail.com">🔻 Escribime aquí 🔻</p>
+<p align="center"><a aria-label="" href="mailto:info@luis-ti.dev.br">🔻 Escribime aquí 🔻</p>
 {{ img(src="/icons/mail-icon.png" class="ci" alt="Mail" w="50" h="50") }}
 </a>
 

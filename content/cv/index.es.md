@@ -16,7 +16,7 @@ toc = false
 ## <center>Luis Ricardo Martínez Díaz</center>
 
 ---
->E-mail: <ngawang.monlam@gmail.com>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil. </br> Página web: [www.luis-ti.dev.br](https://www.luis-ti.dev.br).
+>E-mail: <info@luis-ti.dev.br>. | Celular: [5511933014430](tel:+5511933014430). | Github: [m00sp](https://github.com/m00sp). | Ubicación: Vila Matilde, SP, Brasil. </br> Página web: [www.luis-ti.dev.br](https://www.luis-ti.dev.br).
 ----
 ----
 #### **Habilidades**
