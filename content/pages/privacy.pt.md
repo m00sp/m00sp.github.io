@@ -9,7 +9,7 @@ draft = false
 ## Privacidade
 
 
-- Este site não define ou usa cookies.
+- Este site não instala nem usa cookies.
 - Este site não armazena dados no navegador para serem compartilhados, enviados ou vendidos a terceiros.
 - Nenhuma informação pessoal é compartilhada, enviada ou vendida a terceiros.
 

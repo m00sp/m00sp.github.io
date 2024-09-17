@@ -1,6 +1,3 @@
 +++
-template = "archive.html"
-
-[extra]
-sec = ""
+template = "m00archive.html"
 +++
