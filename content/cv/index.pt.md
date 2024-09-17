@@ -1,6 +1,6 @@
 +++
-title = "CV"
-description = "Aqui você pode ver meu CV"
+title = "Meu CV"
+description = "Aqui está meu CV"
 date = "2024-08-14"
 updated = "2024-08-13"
 template = "cvs.html"

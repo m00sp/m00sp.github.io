@@ -1,20 +1,24 @@
 +++
-title = "My Linux Foundation Certificates"
-description = "Here you can see all my updated certificates from LFX"
+title = "My Certificates"
+description = "Here you can see all my updated certificates"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
 [taxonomies]
-tags = ["Linux"]
 [extra]
-keywords = "Linux, Foundation, Certificates, Completion"
+keywords = "Linux, Foundation, IFRS, Datadog, Bradesco, Certificates"
 toc = true
-series = "Linux"
 assets = "cert/"
 +++
 
 All my certificates from [The Linux Foundation](https://trainingportal.linuxfoundation.org/).
+From the [IFRS](https://ifrs.edu.br).
+From the [Datadog Learning Center](https://learn.datadoghq.com/).
+From the [Bradesco Foundation](https://www.ev.org.br).
+
+<div style="text-align: center;">
 
 {{ m00galeria() }}
 
+</div>
