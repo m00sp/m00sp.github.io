@@ -15,7 +15,7 @@ assets = "cert/"
 Todos mis certificados de la [Fundación Linux](https://trainingportal.linuxfoundation.org/).
 Del [IFRS](https://ifrs.edu.br).
 Del [Datadog Learning Center](https://learn.datadoghq.com/).
-De la [Fundaión Bradesco](https://www.ev.org.br).
+Y de la [Fundación Bradesco](https://www.ev.org.br).
 
 <div style="text-align: center;">
 

@@ -1,5 +1,5 @@
 +++
-title = "Certificados"
+title = "Meus Certificados"
 description = "Aqui estão todos meus certificados atualizados"
 date = 2024-09-03
 updated = 2024-09-03
@@ -12,10 +12,10 @@ toc = true
 assets = "cert/"
 +++
 
-Todas minhas certificações da [Fundação Linux](https://trainingportal.linuxfoundation.org/).
+Todos meus certificados da [Fundação Linux](https://trainingportal.linuxfoundation.org/).
 Do [IFRS](https://ifrs.edu.br).
 Do [Datadog Learning Center](https://learn.datadoghq.com/).
-Da [Fundação Bradesco](https://www.ev.org.br).
+E da [Fundação Bradesco](https://www.ev.org.br).
 
 <div style="text-align: center;">
 
