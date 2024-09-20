@@ -114,14 +114,14 @@ menu = [
     {url = "tags", name = "Tags", slash = true, blank = false, size="s110"},
     {url = "cv", name = "CV", slash = true, blank = true, size="s110"},
     {url = "contact", name = "Contact", slash = true, blank = false, size="s110"},
-    {url = "about", name = "About", slash = true, blank = false, size="s110"},
+#    {url = "about", name = "About", slash = true, blank = false, size="s110"},
 ]
 menu_footer = [
     {url = "privacy", name = "Privacy", slash = true, blank = false, size="s90"},
     {url = "sitemap.xml", name = "Sitemap", slash = false, blank = true, size="s90"},
     {url = "cv", name = "CV", slash = true, blank = true, size="s90"},
     {url = "contact", name = "Contact", slash = true, blank = false, size="s90"},
-    {url = "about", name = "About", slash = true, blank = false, size="s90"},
+#    {url = "about", name = "About", slash = true, blank = false, size="s90"},
 ]
 
 toc = true
@@ -290,12 +290,12 @@ pwa_BASE_CACHE_FILES = "'/js/theme.min.js','/js/theme_light.min.js','/abridge.cs
 
 favicon_theme_color = "#333333"
 favicon_ms_color = "#333333"
-favicon_mask = "safari-pinned-tab.svg" # safari-pinned-tab.svg
+#favicon_mask = "safari-pinned-tab.svg" # safari-pinned-tab.svg
 favicon_mask_color = "#ff9900"
 favicon_svg = "/icons/m00favicon.svg" # favicon.svg
-favicon180 = "apple-touch-icon.png" # apple-touch-icon.png
+#favicon180 = "apple-touch-icon.png" # apple-touch-icon.png
 favicon32 = "/icons/m00favicon.png" # favicon-32x32.png
-favicon16 = "favicon-16x16.png" # favicon-16x16.png
+#favicon16 = "favicon-16x16.png" # favicon-16x16.png
 
 
 ###############################################################################
