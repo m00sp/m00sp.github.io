@@ -14,7 +14,7 @@ assets = "badges/"
 +++
 
 
-Você pode ir ao meu [Perfil da Credly](https://www.credly.com/users/luis-ricardo-martinez-diaz) para ver mi portfolio de badges completo ou para ver uma descrição detalhada das abilidades ganhadas.
+Você pode ir ao meu [Perfil da Credly](https://www.credly.com/users/luis-ricardo-martinez-diaz) para ver meu portfolio de badges completo ou para ver uma descrição detalhada das abilidades ganhadas.
 
 <div style="text-align: center;">
 

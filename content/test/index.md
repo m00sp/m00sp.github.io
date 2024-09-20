@@ -67,6 +67,7 @@ series = "Javascript"
   </small>
 </p>
   </body>
+    <script src='data.json'></script>
     <script src='script.js'></script>
 </html>
 
