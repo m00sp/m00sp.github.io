@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   stroke="#ff9900"
+   viewBox="0 0 119.99999 95.999998"
+   width="35"
+   height="28"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="m00logo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#aa4400;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="19.142857"
+     inkscape:cx="18.38806"
+     inkscape:cy="12.69403"
+     inkscape:window-width="1362"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="2"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:8.09143;stroke-dasharray:none"
+     d="m 126.98381,3.2770302 0.71173,14.7312278"
+     id="path5" />
+  <rect
+     style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:10.2303;stroke-dasharray:none"
+     id="rect7"
+     width="74.655243"
+     height="14.407024"
+     x="4.039041"
+     y="0.43447354"
+     ry="0" />
+  <rect
+     style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:8.63144;stroke-dasharray:none"
+     id="rect8"
+     width="18.831045"
+     height="95.679749"
+     x="88.641045"
+     y="0.3455283" />
+  <rect
+     style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:8.09143;stroke-dasharray:none"
+     id="rect9"
+     width="18.906891"
+     height="82.322662"
+     x="32.70446"
+     y="13.863418" />
+</svg>

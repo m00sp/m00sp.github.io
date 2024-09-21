@@ -145,9 +145,10 @@ footer_credit = true
 #archive_reverse = true # Set to True to sort posts chronologically per year instead of newest first on the archive page: example.com/archive/
 
 ### Uncomment one of the below lines, or neither, depending on which type of logo you want to use:
-#logo = { file="logo.svg", width="32", height="32", alt="Abridge", text="bridge" }
-textlogo = 'Luis-<font color="#f90">TI</font>.dev.br'
-#text.brlogo = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#f90" viewBox="0 0 96 96" width="28" height="28"><path stroke-width="14" d="M14 99 46 7h4l32 92"/><path stroke-width="9" d="M-3 82c43-26 59-26 102 0"/><path stroke-linecap="round" stroke-width="1.5" d="M94 72v7m-5-9.8v7m-5-9.8v7.1M79 64v7M63 57.7v7m-5-8.2v7m-5-7.8v7m-5-7.2v7m-5-6.7v7m-5-6.3v7m-5-5.8v7M17 64v7m-5-4.6v7m-5-4.2v7M2 72v7"/></svg>bridge'
+#logo = { file="logo.svg", width="32", height="32", alt="Luis-TI.dev.br", text="Luis-TI" }
+#textlogo = 'Luis-<mark><font color="#f90">TI</font></mark>.dev.br'
+#textlogo = 'Luis-<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#f90" viewBox="0 0 96 96" width="28" height="28"><path stroke-width="14" d="M14 99 46 7h4l32 92"/><path stroke-width="9" d="M-3 82c43-26 59-26 102 0"/><path stroke-linecap="round" stroke-width="1.5" d="M94 72v7m-5-9.8v7m-5-9.8v7.1M79 64v7M63 57.7v7m-5-8.2v7m-5-7.8v7m-5-7.2v7m-5-6.7v7m-5-6.3v7m-5-5.8v7M17 64v7m-5-4.6v7m-5-4.2v7M2 72v7"/></svg>.dev.br'
+textlogo = 'Luis-<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#f90" viewBox="0 0 96 96" width="35" height="28"><path style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:8.09143;stroke-dasharray:none" d="m 126.98381,3.2770302 0.71173,14.7312278" id="path5" /><rect style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:10.2303;stroke-dasharray:none" id="rect7" width="74.655243" height="14.407024" x="4.039041" y="0.43447354" ry="0" /><rect style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:8.63144;stroke-dasharray:none" id="rect8" width="18.831045" height="95.679749" x="88.641045" y="0.3455283" /><rect style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-width:8.09143;stroke-dasharray:none" id="rect9" width="18.906891" height="82.322662" x="32.70446" y="13.863418" /></svg>.dev.br'
 
 sitedesc = true # enables or disables the display of the site description below the logo.
 headhr = false # show or hide horizontal rule below header
