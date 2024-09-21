@@ -11,5 +11,5 @@ template = "m00index.html"
 </p>
 <p align="center"><a class="top" href="/es/">Español</a>
 </p>
-<p style="text-align:center;">🔴 <a class="top" href="/" style="background-color:darkorange; color:white">English</a>
+<p style="text-align:center;">🔴 <a class="top" href="/" style="background-color:darkorange; color:black">English</a>
 </p>
