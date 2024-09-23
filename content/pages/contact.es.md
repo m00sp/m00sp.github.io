@@ -15,7 +15,7 @@ draft = false
 <h1 style="text-align: center;"><a name="mail">E-Mail</a></h1>
 </br>
 <p align="center"><a aria-label="" href="mailto:info@luis-ti.dev.br">🔻 Escribime aquí 🔻</p>
-{{ img(src="/icons/mail-icon.png" class="ci" alt="Mail" w="50" h="50") }}
+{{ img(src="/icons/m00mail-icon-50x50-fs8.png" class="ci" alt="Mail" w="50" h="50") }}
 </a>
 
 <h1 style="text-align: center;"><a name="whatsapp">WhatsApp</a></h1>
@@ -34,12 +34,12 @@ draft = false
 </br>
 <p style="text-align: center;"><a aria-label="Linkedin" href="https://www.linkedin.com/in/luis-ricardo-mart%C3%ADnez-d%C3%ADaz/">🔻 Contactame por LinkedIn, aquí 🔻</p>
 
-{{ img(src="/icons/m00linkedin-laranja.png" class="ci" alt="LinkedIn" w=50 h=50) }}
+{{ img(src="/icons/m00linkedin-laranja-50x50-fs8.png" class="ci" alt="LinkedIn" w=50 h=50) }}
 </a>
 <h1 style="text-align: center;"><a name="ubicación">Mi Ubicación</a></h1>
 <br>
 <a aria-label="" href="https://maps.app.goo.gl/2jhxeaV6scHKJsFY9">
-{{ img(src="/icons/vector-location-icon.png" class="ci" alt="Location" w="50" h="50") }}
+{{ img(src="/icons/m00location-icon-50x50-fs8.png" class="ci" alt="Location" w="50" h="50") }}
 </a>
 <p align="center">Vila Matilde</p>
 <p align="center">San Pablo</p>
