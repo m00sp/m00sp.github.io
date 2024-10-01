@@ -7,15 +7,16 @@ draft = false
 
 [taxonomies]
 [extra]
-keywords = "Linux, Fundación, Datadog, IFRS, Certificados"
+keywords = "Fundación Linux, CGI.br, NIC.br, Cisco, Netacad, Datadog, IFRS, Certificados"
 toc = true
 assets = "cert/"
 +++
 
-Todos mis certificados de la [Fundación Linux](https://trainingportal.linuxfoundation.org/).
+Todos mis certificados del [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/).
 Del [IFRS](https://ifrs.edu.br).
+De la [Cisco](https://www.netacad.com/).
 Del [Datadog Learning Center](https://learn.datadoghq.com/).
-Y de la [Fundación Bradesco](https://www.ev.org.br).
+Y de la [Fundación Linux](https://trainingportal.linuxfoundation.org/).
 
 <div style="text-align: center;">
 
