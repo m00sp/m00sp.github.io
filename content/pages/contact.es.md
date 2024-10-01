@@ -7,7 +7,7 @@ draft = false
 +++
 <br>
 <p align="center">Personalmente, ofrezco asistencia técnica cerca de <a class="link" href="#ubicación" data-scroll> Mi Ubicación</a>.</p>
-<p style="text-align: center;">Para trabajo remoto, presupuesto de servicios, o contrataciones utilice uno de los siguientes medios de contacto:</p>
+<p style="text-align: center;">Para trabajo remoto, presupuesto de servicios o contrataciones utilice uno de los siguientes medios de contacto:</p>
 <p align="center"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
 <p align="center"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
 <p align="center"><a class="link" href="#linkedin" data-scroll>LinkedIn.</a></p>

@@ -10,7 +10,7 @@ draft = false
 
 <br>
 <p style="text-align: center;">Pessoalmente, ofereço assistência técnica perto da <a class="link" href="#ubicación" data-scroll> Minha Localização</a>.</p>
-<p style="text-align: center;">Para trabalho remoto, orçamento de serviços, ou contratações, utilize um dos seguintes meios de contato:</p>
+<p style="text-align: center;">Para trabalho remoto, orçamento de serviços ou contratações, utilize um dos seguintes meios de contato:</p>
 <p style="text-align: center;"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
 <p style="text-align: center;"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
 <p style="text-align: center;"><a class="link" href="#linkedin" data-scroll>LinkedIn.</a></p>
