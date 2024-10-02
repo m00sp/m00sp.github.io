@@ -22,7 +22,7 @@ toc = false
 #### **Habilidades**
 -------
 ----
-- **Linguagens de programação y Tecnologias**
+- **Linguagens de programação e Tecnologias**
 :	Rust, Posix shell, Lua, Docker, git, github, Makefile, k8s, HTML, Markdown, SASS, CSS, CI/CD. </br>
 - **OSes**:	Linux, Windows, macOS e Android. Meu sistema operacional de uso diário é Alpine Linux. </br>
 - **Idiomas**
@@ -36,16 +36,19 @@ toc = false
 ----
 2015-Presente
 :	Trabalhando como programador autônomo e fornecendo assistência técnica, presencial e remota, a usuários finais.
-- Suporte técnico direto em Hardware e Software. **Hardware**, computadores e notebooks, manuntenção, limpeza, atualização, melhora e otimização. Substituições de HDs, SSDs, placas de vídeo, processadores, adição de memória RAM, etc. **Software**,  administração de sistemas operacionais Linux, Android y Windows NT, migração de dados, cópias de segurança, mapeamento e monitoramento de redes, configuração de serviços vários.
+- Suporte técnico direto em Hardware e Software. **Hardware**, computadores e notebooks, manuntenção, limpeza, atualização, melhora e otimização. Substituições de HDs, SSDs, placas de vídeo, processadores, adição de memória RAM, etc. **Software**,  administração de sistemas operacionais Linux, Android e Windows NT, migração de dados, cópias de segurança, mapeamento e monitoramento de redes, configuração de serviços vários.
 
+----
 2014
-:	Fuerza Bruta Wayra CCR (Centro Cultural Recoleta), Capital Federal, Buenos Aires, Argentina.
+:	[Fuerza Bruta Wayra](https://www.youtube.com/watch?v=FYszthdJU8c&pp=ygUXZnVlcnphIGJydXRhIHdheXJhIDIwMTQ%3D), CCR (Centro Cultural Recoleta), Capital Federal, Buenos Aires, Argentina.
 - Rigger. Técnico de segurança em altura. No final do ano.
 
+----
 2014
 :	Plan [FinEs](https://www.argentina.gob.ar/educacion/fines), Buenos Aires, Argentina.
 - Professor de várias matérias ao longo do ano em diferentes centros de educação para adultos em processo de conclução do ensino medio.
 
+----
 2011-2013
 :   [UNSAM Escuela de humanidades](https://www.unsam.edu.ar/escuelas/eh/), (Universidade Nacional de San Martín, escola de ciências humanas), Buenos Aires, Argentina.
 
@@ -61,7 +64,7 @@ toc = false
 ----
 2002-2006 *[ILVEM](https://ilvem.com/)* (Capital Federal, Buenos Aires, Argentina)
 
-- Professor de cursos de leitura rápida, memória y métodos de estudo. Apresentações demonstrativas na Capital Federal e no interior do país para a franquia Ilvem interior. Vendas de cursos, treinamento e assessoria para alunos e vendedores.
+- Professor de cursos de leitura rápida, memória e métodos de estudo. Apresentações demonstrativas na Capital Federal e no interior do país para a franquia Ilvem interior. Vendas de cursos, treinamento e assessoria para alunos e vendedores.
 
 ----
 ----
