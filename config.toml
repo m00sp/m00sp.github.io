@@ -322,7 +322,7 @@ favicon16 = "/icons/m00favicon-16x16.png" # favicon-16x16.png
 #icon_prev = "svgs svgh angl" # Pagination Previous Page.
 #icon_next = "svgs svgh angr" # Pagination Next Page.
 #icon_last = "svgs svgh angrr" # Pagination Last Page.
-#icon_top = "svgs svgh angu" # Back to Top Button.
+icon_top = "svgs svgh angu" # Back to Top Button.
 
 #icon_read = "svgs fa-solid fa-glasses" # displayed in metadata on index and below title on page.
 #icon_date = "svgs fa-solid fa-calendar" # displayed in metadata on index and below title on page.
