@@ -1,6 +1,6 @@
 +++
 title = "Home"
-path = "home"
+path = "pt/home"
 template = "m00base.html"
 draft = false
 +++

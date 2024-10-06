@@ -1,7 +1,7 @@
 +++
 paginate_by = 3
 sort_by = "date"
-template = "m00index.html"
+template = "base.html"
 +++
 <p align="center"> Hola 👋! Bienvenido a mi página web.</p>
 <p align="center"> Por favor, elija su idioma preferido 👇.</p>

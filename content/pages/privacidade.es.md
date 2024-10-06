@@ -1,7 +1,7 @@
 +++
 title = "Política de Privacidad"
 description = "En esta página se describe la política de privacidad de este sitio y la fecha en que entró en vigor."
-path = "es/privacy"
+path = "es/privacidade"
 template = "pages.html"
 draft = false
 +++

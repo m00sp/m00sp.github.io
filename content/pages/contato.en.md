@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "To reach us please use the contact form on this page."
-path = "/contact"
+path = "/en/contato"
 template = "pages.html"
 draft = false
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Contato"
 description = "Para entrar en contato conmigo, utilize um dos links nesta página."
-path = "pt/contact"
+path = "/contato"
 template = "pages.html"
 draft = false
 +++

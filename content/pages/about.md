@@ -1,14 +1,15 @@
 +++
-title = "About"
-path = "about"
+title = "Sobre"
+path = "pt/about"
 template = "pages.html"
 draft = false
 +++
 
-This site provides a demo for the [abridge theme](https://github.com/Jieiku/abridge) for [Zola](https://www.getzola.org/) the static site generator.
+Este site fornece uma demonstração do [tema abridge](https://github.com/Jieiku/abridge) de [Zola](https://www.getzola.org/), o gerador de sites estáticos.
 
-Abridge was created by [Jake G (jieiku)](https://github.com/Jieiku) to be fast and lightweight, using semantic html, a class-light [abridge.css](https://github.com/Jieiku/abridge.css), and No Mandatory JS.
+Abridge foi criado por [Jake G (jieiku)](https://github.com/Jieiku) para ser rápido e leve, usando html semântico, um [abridge.css](https://github.com/Jieiku/abridge.css) de clase-leve, e JS Não Mandatório.
 
-Nearly half of the existing Zola MIT themes were inspiration for features and design of this theme.
+Quase a metade dos temas Zola sob licença MIT existentes serviram de inspiração para as caraterísticas e o desenho deste tema.
 
-Abridge is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Abridge está licenciado sob a [licença MIT](https://opensource.org/licenses/MIT).
+
