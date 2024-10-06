@@ -5,10 +5,10 @@ base_url = "https://luis-ti.dev.br"
 # If you use the npm/node script then all you have to do is set offline = true, and everything else is automatic.
 
 title = "Luis-TI.dev.br"
-description = "Hardware and Software"
+description = "Hardware e Software"
 theme = "abridge"
 
-default_language = "en"
+default_language = "pt"
 compile_sass = true
 minify_html = false
 build_search_index = true
@@ -69,33 +69,33 @@ taxonomies = [
     {name = "tags", feed = true},
 ]
 
-##[languages.en]
-##title = "Luis TI"
-##description = "Hardware and Software"
-##generate_feeds = true
-##build_search_index = true
-##search.include_title = true # include title of page/section in index
-##search.include_description = true # include description of page/section in index
-##search.include_content = true # include rendered content of page/section in index
-### search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
-##taxonomies = [
-###    {name = "categories", feed = true},
-    ##{name = "tags", feed = true},
-##]
-
-[languages.pt]
-title = "Luis-TI.dev.br"
-description = "Hardware e Software"
+[languages.en]
+title = "Luis TI"
+description = "Hardware and Software"
 generate_feeds = true
 build_search_index = true
 search.include_title = true # include title of page/section in index
 search.include_description = true # include description of page/section in index
 search.include_content = true # include rendered content of page/section in index
-# search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.#
+# search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
 taxonomies = [
-##    {name = "categories", feed = true},
+#    {name = "categories", feed = true},
     {name = "tags", feed = true},
 ]
+
+##[languages.pt-BR]
+##title = "Luis-TI.dev.br"
+##description = "Hardware e Software"
+##generate_feeds = true
+##build_search_index = true
+##search.include_title = true # include title of page/section in index
+##search.include_description = true # include description of page/section in index
+##search.include_content = true # include rendered content of page/section in index
+#search.truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.#
+##taxonomies = [
+##    {name = "categories", feed = true},
+    ##{name = "tags", feed = true},
+##]
 
 [extra]
 ###############################################################################
@@ -108,20 +108,20 @@ username = "Luis TI"
 user_title = "Hardware e Software"
 user_description = "Bicycle rights irony actually neutra typewriter lyfaxidermy -up ugh bushwick chia lo-f Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo par."
 menu = [
-    {url = "home", name = "_", slash = true, blank = false, size="s110"},
-    {url = "archive", name = "Posts", slash = true, blank = false, size="s110"},
-#    {url = "categories", name = "Categories", slash = true, blank = false, size="s110"},
-    {url = "tags", name = "Tags", slash = true, blank = false, size="s110"},
+#    {url = "home", name = "_", slash = true, blank = false, size="s110"},
+#    {url = "archive", name = "Pasta", slash = true, blank = false, size="s110"},
+#    {url = "categories", name = "Categorias", slash = true, blank = false, size="s110"},
+#    {url = "tags", name = "Etiquetas", slash = true, blank = false, size="s110"},
     {url = "cv", name = "CV", slash = true, blank = true, size="s110"},
-    {url = "contact", name = "Contact", slash = true, blank = false, size="s110"},
-#    {url = "about", name = "About", slash = true, blank = false, size="s110"},
+    {url = "contato", name = "Contato", slash = true, blank = false, size="s110"},
+#    {url = "about", name = "Sobre", slash = true, blank = false, size="s110"},
 ]
 menu_footer = [
-    {url = "privacy", name = "Privacy", slash = true, blank = false, size="s90"},
-    {url = "sitemap.xml", name = "Sitemap", slash = false, blank = true, size="s90"},
+    {url = "privacidade", name = "Privacidade", slash = true, blank = false, size="s90"},
+#    {url = "sitemap.xml", name = "Mapa", slash = false, blank = true, size="s90"},
     {url = "cv", name = "CV", slash = true, blank = true, size="s90"},
-    {url = "contact", name = "Contact", slash = true, blank = false, size="s90"},
-#    {url = "about", name = "About", slash = true, blank = false, size="s90"},
+    {url = "contato", name = "Contato", slash = true, blank = false, size="s90"},
+#    {url = "about", name = "Sobre", slash = true, blank = false, size="s90"},
 ]
 
 toc = true
@@ -156,8 +156,8 @@ foothr = false # show or hide horizontal rule above footer
 
 ### $CURRENT_YEAR and $SITE_TITLE can be used anywhere within the copyright, you can change their position or you can also delete them and type whatever you want instead.
 #copyright = false # set to false to disable the copyright.
-#copyright_override = '© 2019-$CURRENT_YEAR $SITE_TITLE'
-copyright_override = '© $CURRENT_YEAR $SITE_TITLE • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.'
+copyright_override = '© $CURRENT_YEAR $SITE_TITLE'
+#copyright_override = '© $CURRENT_YEAR $SITE_TITLE • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.'
 
 
 ###############################################################################
@@ -170,7 +170,7 @@ title_separator = "|"  # Separator between title and title_addition, set as |, -
 title_addition = "Hardware and Software" # a default value for title addition
 author = "Luis Ricardo Martínez Díaz" # Put Your Name here
 keywords = "Abridge, Abridge.css, Zola, Theme, Zola Theme, getzola, Semantic Html, Fast, lightweight" # used for the primary site index
-banner = "banner.png" # Used as default image for OpenGraph/Twitter if page specific image is undefined.
+#banner = "banner.png" # Used as default image for OpenGraph/Twitter if page specific image is undefined.
 twitter_meta = "your-user-name" # for SEO: twitter:site and twitter:creator
 google = "Your Google Site verification code."
 bing = "Your Bing Site verification code."
@@ -198,7 +198,7 @@ linkedin = "luis-ricardo-martínez-díaz"
 #gitlab = "your-user-name"
 github = "m00sp"
 #codeberg = "your-user-name" # Everything after https://codeberg.org/   eg: username  *or*  username/repository
-github_sponsor = "your-user-name"
+#github_sponsor = "your-user-name"
 #bitbucket = "your-user-name"
 #python = "your-user-name"
 #docker = "your-user-name"

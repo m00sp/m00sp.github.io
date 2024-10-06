@@ -1,8 +1,8 @@
 +++
-title = "My Credly Badges"
-description = "Here you can see all my updated badges from Credly"
-date = 2024-09-17
-updated = 2024-09-17
+title = "Meus Credly Badges"
+description = "Aqui você pode ver todas minhas insignias da Credly atualizadas"
+date = 2024-09-03
+updated = 2024-09-03
 draft = false
 
 [taxonomies]
@@ -14,12 +14,11 @@ assets = "badges/"
 +++
 
 
-You can go to my [Credly Profile](https://www.credly.com/users/luis-ricardo-martinez-diaz) to see my complete Badge Portfolio or to see a detailed description of the skills gained.
+Você pode ir ao meu [Perfil da Credly](https://www.credly.com/users/luis-ricardo-martinez-diaz) para ver meu portfolio de badges completo ou para ver uma descrição detalhada das abilidades ganhadas.
 
 <div style="text-align: center;">
 
 {{ m00galeria2() }}
 
 </div>
-
 

@@ -1,6 +1,6 @@
 +++
 title = "Offline Mode"
-path = "offline.en"
+path = "offline"
 template = "pages.html"
 draft = false
 +++
