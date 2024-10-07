@@ -1,9 +1,12 @@
 +++
 title = "Home"
-path = "pt/home"
-template = "m00base.html"
+path = "/home"
+template = "pages.html"
 draft = false
 +++
+
+{{ m00inicio() }}
+
 
 This site provides a demo for the [abridge theme](https://github.com/Jieiku/abridge) for [Zola](https://www.getzola.org/) the static site generator.
 

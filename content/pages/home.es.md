@@ -1,7 +1,7 @@
 +++
 title = "Home"
 path = "es/home"
-template = "m00base.html"
+template = "pages.html"
 draft = false
 +++
 
