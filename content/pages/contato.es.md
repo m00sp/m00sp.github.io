@@ -6,7 +6,7 @@ template = "pages.html"
 draft = false
 +++
 <br>
-<p align="center">Personalmente ofrezco asistencia en San Pablo (Capital).</p>
+<p align="center">Personalmente ofrezco asistencia técnica en San Pablo (Capital).</p>
 <p style="text-align: center;">Para trabajo remoto, presupuesto de servicios o contrataciones utilice uno de los siguientes medios de contacto:</p>
 <p align="center"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
 <p align="center"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
