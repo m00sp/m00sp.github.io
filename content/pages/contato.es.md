@@ -6,7 +6,7 @@ template = "pages.html"
 draft = false
 +++
 <br>
-<p align="center">Personalmente, ofrezco asistencia técnica cerca de <a class="link" href="#ubicación" data-scroll> Mi Ubicación</a>.</p>
+<p align="center">Personalmente ofrezco asistencia en San Pablo (Capital).</p>
 <p style="text-align: center;">Para trabajo remoto, presupuesto de servicios o contrataciones utilice uno de los siguientes medios de contacto:</p>
 <p align="center"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
 <p align="center"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
@@ -40,16 +40,6 @@ draft = false
 
 {{ img(src="/icons/m00linkedin-laranja-50x50-fs8.png" class="ci" alt="LinkedIn" w=50 h=50) }}
 </a>
-<br>
-<br>
-<h1 style="text-align: center;"><a name="ubicación">Mi Ubicación</a></h1>
-<br>
-<a aria-label="" href="https://maps.app.goo.gl/2jhxeaV6scHKJsFY9">
-{{ img(src="/icons/m00location-icon-50x50-fs8.png" class="ci" alt="Location" w="50" h="50") }}
-</a>
-<p align="center">Vila Matilde</p>
-<p align="center">San Pablo</p>
-<p align="center">Brasil</p>
 <br>
 <br>
 
