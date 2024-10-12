@@ -9,3 +9,4 @@ draft = false
 
 {{ m00inicio() }}
 
+{{ m00devicon() }}
