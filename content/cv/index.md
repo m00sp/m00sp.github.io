@@ -3,13 +3,13 @@ title = "Meu CV"
 description = "Aqui está meu CV"
 date = "2024-08-14"
 updated = "2024-08-13"
-template = "cvs.html"
+template = "m00cvs.html"
 draft = false
 
 [taxonomies]
 tags = ["CV"]
 [extra]
-keywords = "CV"
+keywords = "CV, Luis-TI"
 toc = false
 +++
 
@@ -83,7 +83,7 @@ toc = false
 #### **Contribuições Open Source**
 ----
 ----
-- Traduções para *[Abridge](https://github.com/jieiku/abridge)* e *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre otras. Eu colaboro com várias traduções ao espanhol e ao português para projetos de código aberto, a maioria deles está disponível no github.
+- Traduções para *[Abridge](https://github.com/jieiku/abridge)* e *[rustdesk](https://github.com/rustdesk/rustdesk-server-demo)*, entre outras. Eu colaboro com várias traduções ao espanhol e ao português para projetos de código aberto, a maioria deles está disponível no github.
 
 ----
 Meus projetos
