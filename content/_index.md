@@ -5,6 +5,7 @@ template = "pages.html"
 +++
 
 {{ m00info() }}
-{{ m00inicio() }}
+{{ m00devicon() }}
+{{ m00backtop() }}
 
 
