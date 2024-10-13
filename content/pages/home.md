@@ -7,6 +7,7 @@ draft = false
 
 {{ m00info() }}
 
-{{ m00inicio() }}
-
 {{ m00devicon() }}
+
+{{ m00backtop() }}
+
