@@ -5,7 +5,8 @@ template = "pages.html"
 +++
 
 {{ m00main() }}
-{{ m00info() }}
+{{ m00hardware() }}
+{{ m00software() }}
 {{ m00devicon() }}
 {{ m00backtop() }}
 

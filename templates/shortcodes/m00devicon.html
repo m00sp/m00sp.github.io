@@ -1,3 +1,26 @@
+<head>
+    <style>
+    .tech {
+      margin: 10px;
+    }
+
+    .user {
+      text-align: center;
+      font-size: 60px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      p {
+        font-size: 16px;
+      }
+      @media only screen and (min-width: $cut) {
+        flex-wrap: nowrap;
+        font-size: 50px;
+      }
+    }
+    </style>
+<head>
 <div class="user">
     <div class="tech">
       <i class="devicon-html5-plain-wordmark"></i>
