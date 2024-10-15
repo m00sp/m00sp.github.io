@@ -5,6 +5,9 @@ path = "es/contato"
 template = "pages.html"
 draft = false
 +++
+
+{{ m00main() }}
+
 <br>
 <p align="center">Personalmente ofrezco asistencia técnica en San Pablo (Capital).</p>
 <p style="text-align: center;">Para trabajo remoto, presupuesto de servicios o contrataciones utilice uno de los siguientes medios de contacto:</p>
@@ -47,3 +50,4 @@ draft = false
 
 <p align="center">Gracias, por tu visita, hasta la próxima.</p>
 
+{{ m00backtop() }}

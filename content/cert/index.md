@@ -11,11 +11,11 @@ keywords = "Foundação Linux, CGI.br, NIC.br, Netacad, Cisco, IFRS, Datadog, Ce
 toc = true
 assets = "cert/"
 +++
-
+{{ m00main() }}
 Todos meus certificados do [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/).
 Do [IFRS](https://ifrs.edu.br).
 Da [Cisco](https://www.netacad.com/).
-Do [Datadog Learning Center](https://learn.datadoghq.com/).
+Do[Datadog Learning Center](https://learn.datadoghq.com/).
 E da [Fundação Linux](https://trainingportal.linuxfoundation.org/).
 
 <div style="text-align: center;">
@@ -23,3 +23,4 @@ E da [Fundação Linux](https://trainingportal.linuxfoundation.org/).
 {{ m00galeria() }}
 
 </div>
+{{ m00backtop() }}

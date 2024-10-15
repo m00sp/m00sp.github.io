@@ -35,12 +35,26 @@ $cut: 550px;
   }
 }
 
+.icons {
+  color: red;
+}
 .user-details {
   text-align: center;
-  margin: 5px auto;
+  text-justify: inter-word;
+  margin: 25px auto;
+  padding: 45px;
+  border: 1px solid orange;
+  border-radius: 25px;
+  justify-content: space-between
+    p {
+		text-align: justify;
+		text-justify: inter-word;
+    }
     ul {
-        text-align: center;
+        text-align: justify;
+		text-justify: inter-word;
         list-style-position: inside;
+        list-style-type: none;
     }
 }
 #projects {
@@ -107,8 +121,18 @@ $cut: 550px;
   transform: translateY(0%);
 }
 
+#botao {
+  position:absolute;
+  top:0;
+  right:0;
+}
+
 @media print {
   .skip-link {
     display: none;
   }
+  .no-print {
+     display: none;
+  }
 }
+
