@@ -5,9 +5,9 @@ template = "pages.html"
 draft = false
 +++
 
-- [x] Este é um teste
+{{ m00hardware() }}
 
-{{ m00info() }}
+{{ m00software() }}
 
 {{ m00devicon() }}
 
