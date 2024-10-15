@@ -5,6 +5,7 @@ template = "pages.html"
 draft = false
 +++
 
+
 {{ m00info() }}
 
 {{ m00devicon() }}

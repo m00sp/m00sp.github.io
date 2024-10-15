@@ -6,6 +6,8 @@ template = "pages.html"
 draft = false
 +++
 
+{{ m00main() }}
+
 ## Privacy
 
 - This site does not set or use cookies.

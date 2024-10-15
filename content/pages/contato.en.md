@@ -6,7 +6,7 @@ template = "pages.html"
 draft = false
 +++
 
-
+{{ m00main() }}
 
 <br>
 <p align="center">In person I offer technical assistance in Sao Paulo (Capital)</p>
@@ -47,3 +47,4 @@ draft = false
 
 <p align="center">Thank you for your visit, have a nice day.</p>
 
+{{ m00backtop() }}

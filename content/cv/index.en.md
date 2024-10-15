@@ -13,6 +13,8 @@ keywords = "CV"
 toc = false
 +++
 
+{{ m00print() }}
+
 ## <center>Luis Ricardo Martínez Díaz</center>
 
 ---
