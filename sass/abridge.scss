@@ -36,7 +36,7 @@
   $icon-github-sponsor: true,
   $icon-bitbucket: false,
   $icon-python: false,
-  $icon-docker: false,
+  $icon-docker: true,
   $icon-stack: false,
   $icon-instagram: false,
   $icon-pixelfed: false,
@@ -62,7 +62,7 @@
   $icon-folder: false,// categories folder
   $icon-ftag: false,
   $icon-tag: false,// tag
-  $icon-check: false,// check mark
+  $icon-check: true,// check mark
   $icon-chevron: true,// chevron down
   $icon-clock: false,// time analog clock
   $icon-date: false,// calendar
