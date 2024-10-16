@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
+    <title>Luis-TI.dev.br - Credly</title>
+    <subtitle>Hardware e Software</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://luis-ti.dev.br/tags/credly/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://luis-ti.dev.br"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-03T00:00:00+00:00</updated>
+    <id>https://luis-ti.dev.br/tags/credly/atom.xml</id>
+    <entry xml:lang="pt">
+        <title>Meus Credly Badges</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/badges/"/>
+        <id>https://luis-ti.dev.br/badges/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/badges/">&lt;main id=&quot;main&quot;&gt;
+&lt;&#x2F;main&gt;
+&lt;p&gt;Você pode ir ao meu &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.credly.com&#x2F;users&#x2F;luis-ricardo-martinez-diaz&quot;&gt;Perfil da Credly&lt;&#x2F;a&gt; para ver meu portfolio de badges completo ou para ver uma descrição detalhada das habilidades ganhadas.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;computer-hardware-basics-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;computer-hardware-basics-fs8.4c113d20c7ab777b.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc101-inclusive-speaker-orientation-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc101-inclusive-speaker-orientation-fs8.4552faaab03b6c39.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc102-inclusive-open-source-community-orientation-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc102-inclusive-open-source-community-orientation-fs8.704da00250aeadd3.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc108-cybersecurity-essentials-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc108-cybersecurity-essentials-fs8.5468dc4e60328768.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc111-open-source-technical-documentation-essentia-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc111-open-source-technical-documentation-essentia-fs8.7d55ccc29017cdff.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc112-creating-effective-documentation-for-develop-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc112-creating-effective-documentation-for-develop-fs8.accd22b935e7bd22.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc114-remote-work-at-scale-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc114-remote-work-at-scale-fs8.9558697513b8f83b.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc131-green-software-for-practitioners-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc131-green-software-for-practitioners-fs8.e53bf90e5727657b.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc191-open-source-licensing-basics-for-software-developers-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc191-open-source-licensing-basics-for-software-developers-fs8.072fd72f96fcfd86.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfc193-introduction-to-open-source-licensing-compliance-management-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfc193-introduction-to-open-source-licensing-compliance-management-fs8.4c98f1647b6fc0c8.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfd102-a-beginner-s-guide-to-open-source-software-development-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfd102-a-beginner-s-guide-to-open-source-software-development-fs8.2659cbfdffbda3de.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfd137-open-source-contribution-in-finance-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfd137-open-source-contribution-in-finance-fs8.29e32ccb8ccd40c1.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfel1002-getting-started-with-rust-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfel1002-getting-started-with-rust-fs8.210d1c175e2a3a85.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfel1005-security-self-assessments-for-open-source--fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfel1005-security-self-assessments-for-open-source--fs8.d51b7a00d3abb262.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfel1006-securing-projects-with-openssf-scorecard-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfel1006-securing-projects-with-openssf-scorecard-fs8.eb21635010507936.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfel1007-automating-supply-chain-security-sboms-and-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfel1007-automating-supply-chain-security-sboms-and-fs8.146d804caf206fb8.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs101-introduction-to-linux-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs101-introduction-to-linux-fs8.ebe5b99ff07711a8.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs111-open-source-and-the-5g-transition-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs111-open-source-and-the-5g-transition-fs8.4e27f0fb005bd79d.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs151-introduction-to-cloud-infrastructure-technol-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs151-introduction-to-cloud-infrastructure-technol-fs8.8fee94bc5dbaa43c.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs162-introduction-to-devops-and-site-reliability--fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs162-introduction-to-devops-and-site-reliability--fs8.575f20e4c12e2675.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs169-introduction-to-gitops-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs169-introduction-to-gitops-fs8.74e95dde1d3f0010.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs170-blockchain-understanding-its-uses-and-implic-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs170-blockchain-understanding-its-uses-and-implic-fs8.2bcbeba6b75f07f4.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs171-introduction-to-hyperledger-blockchain-techn-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs171-introduction-to-hyperledger-blockchain-techn-fs8.1479c1c81511d5cf.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;badges&#x2F;lfs178-getting-started-with-self-sovereign-identity-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;lfs178-getting-started-with-self-sovereign-identity-fs8.7d7005d1e1e91973.png&quot; loading=&quot;lazy&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+</feed>
