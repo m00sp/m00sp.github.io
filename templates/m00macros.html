@@ -1,13 +1,31 @@
-{% macro hardware() %}
-<div class="user-details">
-  <h1> Hardware </h1>
-  <p>Adicionar descrição</p>
-  <details>
-      <summary>Serviços</summary>
-      <ul>Um test</ul>
-  </details>
-</div>
-{% endmacro hardware %}
+{% macro m00whatsapp() %}
+<style>
+#mywhatsappBtn {
+position: relative;
+bottom: 0px;
+cursor: pointer; /* Add a mouse pointer on hover */
+}
+button {
+    border: none;
+    background: none;
+    font-size: inherit;
+    transition: all 0.3s;
+    outline: none;
+    position: absolute;
+}
+button:focus {
+display: relative;
+border: solid 1px orange;
+font-size: 0;
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+border-radius: 10px;
+img {
+display: block;
+}
+</style>
+<button onclick="location.href='https://wa.me/5511933014430'" id="mywhatsappBtn" title="whatsapp"><img src="/icons/WhatsAppButtonGreenLarge.svg"></button>
+{% endmacro %}
 
 {% macro software() %}
 <div class="user-details">
