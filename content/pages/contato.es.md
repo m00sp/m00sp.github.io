@@ -27,9 +27,11 @@ draft = false
 
 <br>
 
-<p style="text-align: center;"><a aria-label="Chat on WhatsApp" href="https://wa.me/5511933014430">🔻 Escribime por WhatsApp, aquí 🔻</p>
-{{ imgswap(main_src="/icons/WhatsAppButtonGreenLarge.svg" swap_src="/icons/WhatsAppButtonWhiteLarge.svg" class="ci") }}
-</a>
+<p style="text-align: center;">🔻 Escribime por WhatsApp, aquí 🔻
+<br>
+<br>
+{{ m00whatsapp() }}
+</p>
 <br>
 <p style="text-align: center;">🔻 O escanea el QR code aquí 🔻</p>
 

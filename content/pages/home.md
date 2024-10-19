@@ -4,11 +4,7 @@ path = "/home"
 template = "pages.html"
 draft = false
 +++
-
-{{ m00svgicons() }}
-
-{{ m00icone() }}
-
+{{ m00precall() }}
 {{ m00hardware() }}
 
 {{ m00software() }}

@@ -25,9 +25,10 @@ draft = false
 <br>
 <h1 align="center"><a name="whatsapp">WhatsApp</a></h1>
 <br>
-<p align="center"><a aria-label="Chat on WhatsApp" href="https://wa.me/5511933014430">🔻 Call-me on whatsapp here 🔻</p>
-{{ imgswap(main_src="/icons/WhatsAppButtonGreenLarge.svg" swap_src="/icons/WhatsAppButtonWhiteLarge.svg" class="ci") }}
-</a>
+<p align="center">🔻 Call-me on whatsapp here 🔻<br>
+<br>
+{{ m00whatsapp() }}
+</p>
 <br>
 <p align="center">🔻 Or scan the QR code 🔻</p>
 
