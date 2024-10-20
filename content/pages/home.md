@@ -4,6 +4,7 @@ path = "/home"
 template = "pages.html"
 draft = false
 +++
+{{ m00linkedin() }}
 {{ m00precall() }}
 {{ m00hardware() }}
 
