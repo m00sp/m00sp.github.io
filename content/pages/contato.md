@@ -11,36 +11,33 @@ draft = false
 <br>
 <p style="text-align: center;">Pessoalmente ofereço assistência técnica em São Paulo (Capital).</p>
 <p style="text-align: center;">Para trabalho remoto, orçamento de serviços ou contratações, utilize um dos seguintes meios de contato:</p>
-<p style="text-align: center;"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
-<p style="text-align: center;"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
-<p style="text-align: center;"><a class="link" href="#linkedin" data-scroll>LinkedIn.</a></p>
 <br>
 <br>
-<h1 style="text-align: center;"><a name="mail">E-Mail</a></h1>
+<h1 style="text-align: center;">E-mail</h1>
 <br>
 <p style="text-align: center;">🔻 Envie um E-mail aqui 🔻
 <br>
 <br>
-{{ m00mail() }}
+{{ m00mail()  }}
 </p>
 <br>
 <br>
-<h1 style="text-align: center;"><a name="whatsapp">WhatsApp</a></h1>
+<h1 style="text-align: center;">WhatsApp</h1>
 
 <br>
 
-<p style="text-align: center;">🔻 Escreva-me pelo whatsapp aqui 🔻
+<p style="text-align: center;">🔻 Envie um whatsapp aqui 🔻
 <br>
 <br>
 {{ m00whatsapp() }}
 </p>
 <br>
-<p style="text-align: center;">🔻 Ou utilize o QR code 🔻</p>
+<p style="text-align: center;">🔻 Ou escaneie o QR code 🔻</p>
 
 {{ img(src="/icons/shared_qr_code.png" class="ci" alt="Chat on WhatsApp QR" w=150 h=150) }}
 <br>
 <br>
-<h1 style="text-align: center;"><a name="linkedin">LinkedIn</a></h1>
+<h1 style="text-align: center;">LinkedIn</h1>
 <br>
 <p style="text-align: center;">🔻 Entre em contato por LinkedIn, aqui 🔻
 <br>

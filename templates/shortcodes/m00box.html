@@ -1,5 +1,4 @@
-<head>
-    <style>
+<style>
     .user-details {
       text-align: center;
       text-justify: inter-word;
@@ -22,12 +21,7 @@
             list-style-type: none;
         }
     }
-    </style>
-<head>
+</style>
 <div class="user-details">
-    <h1>Hardware</h1>
-    <p>Conserto e manutenção de computadores e notebooks.</p>
-    	<p id="list"><i aria-hidden="true" class="svg check"></i> Instalação, configuração e atualização de componentes, sistemas operacionais e aplicativos.</p>
-    	<p id="list"><i aria-hidden="true" class="svg check"></i> Copias de segurança, recuperação e migração de dados.</p>
-    	<p id="list"><i aria-hidden="true" class="svg check"></i> Troca de peças em geral.</p>
+    {{ body | safe }}
 </div>
