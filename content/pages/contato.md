@@ -18,9 +18,11 @@ draft = false
 <br>
 <h1 style="text-align: center;"><a name="mail">E-Mail</a></h1>
 <br>
-<p style="text-align: center;"><a aria-label="" href="mailto:info@luis-ti.dev.br">🔻 Escreva-me um mail aqui 🔻</p>
-{{ img(src="/icons/mail-icon.png" class="ci" alt="Mail" w="50" h="50") }}
-</a>
+<p style="text-align: center;">🔻 Envie um E-mail aqui 🔻
+<br>
+<br>
+{{ m00mail() }}
+</p>
 <br>
 <br>
 <h1 style="text-align: center;"><a name="whatsapp">WhatsApp</a></h1>
@@ -40,10 +42,11 @@ draft = false
 <br>
 <h1 style="text-align: center;"><a name="linkedin">LinkedIn</a></h1>
 <br>
-<p style="text-align: center;"><a aria-label="Linkedin" href="https://www.linkedin.com/in/luis-ricardo-mart%C3%ADnez-d%C3%ADaz/">🔻 Entre em contato por LinkedIn, aqui 🔻</p>
-
-{{ img(src="/icons/m00linkedin-laranja.png" class="ci" alt="LinkedIn" w=50 h=50) }}
-</a>
+<p style="text-align: center;">🔻 Entre em contato por LinkedIn, aqui 🔻
+<br>
+<br>
+{{ m00linkedin() }}
+</p>
 <br>
 <br>
 

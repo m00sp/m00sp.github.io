@@ -1,25 +1,36 @@
 {% macro m00whatsapp() %}
 <style>
 #mywhatsappBtn {
-position: relative;
-bottom: 0px;
-cursor: pointer; /* Add a mouse pointer on hover */
-}
-button {
+	display: inline-block;
+    position: relative;
+    bottom: 0px;
+    cursor: pointer; /* Add a mouse pointer on hover */
     border: none;
     background: none;
-    font-size: inherit;
-    transition: all 0.3s;
+    font-size: 24px;
     outline: none;
-    position: absolute;
+    color: #fff;
+    background-color: #f90;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
 }
-button:focus {
-display: relative;
-border: solid 1px orange;
-font-size: 0;
-margin: 0 0 0 0;
-padding: 0 0 0 0;
-border-radius: 10px;
+#mywhatsappBtn:hover {
+	background-color: #f92;
+}
+#mywhatsappBtn:active {
+	background-color: #f93;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+#mywhatsappBtn:focus {
+    display: relative;
+    border: solid 2px orange;
+    font-size: 0;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    border-radius: 10px;
+}
 img {
 display: block;
 }

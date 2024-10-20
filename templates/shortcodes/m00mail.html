@@ -1,0 +1,35 @@
+<style>
+    #BtnEmail {
+        display: inline-block;
+        position: relative;
+        cursor: pointer;
+        padding: 15px 25px;
+        font-size: 24px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #f90;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+    }
+    #BtnEmail:hover {background-color: #f92}
+
+    #BtnEmail:active {
+      background-color: #f93;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+    #BtnEmail:focus {
+        display: relative;
+        border: solid 2px orange;
+        font-size: 24;
+        //margin: 0 0 0 0;
+        //padding: 0 0 0 0;
+        border-radius: 10px;
+    }
+</style>
+<button onclick="location.href='mailto:info@luis-ti.dev.br'" id="BtnEmail" title="LinkedIn" height="100px" width="100px">E-mail  <i class="svg mail"></i></button>
+
