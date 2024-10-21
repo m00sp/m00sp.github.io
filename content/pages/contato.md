@@ -15,9 +15,8 @@ draft = false
 <br>
 <h1 style="text-align: center;">E-mail</h1>
 <br>
-<p style="text-align: center;">🔻 Envie um E-mail aqui 🔻
 <br>
-<br>
+<p style="text-align: center;">
 {{ m00mail()  }}
 </p>
 <br>
@@ -25,23 +24,18 @@ draft = false
 <h1 style="text-align: center;">WhatsApp</h1>
 
 <br>
-
-<p style="text-align: center;">🔻 Envie um whatsapp aqui 🔻
 <br>
-<br>
+<p style="text-align: center;">
 {{ m00whatsapp() }}
 </p>
 <br>
-<p style="text-align: center;">🔻 Ou escaneie o QR code 🔻</p>
-
 {{ img(src="/icons/shared_qr_code.png" class="ci" alt="Chat on WhatsApp QR" w=150 h=150) }}
 <br>
 <br>
 <h1 style="text-align: center;">LinkedIn</h1>
 <br>
-<p style="text-align: center;">🔻 Entre em contato por LinkedIn, aqui 🔻
 <br>
-<br>
+<p style="text-align: center;">
 {{ m00linkedin() }}
 </p>
 <br>
