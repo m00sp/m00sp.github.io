@@ -1,10 +1,7 @@
+{% import "m00macros.html" as m00macros %}
 {% extends "abridge/templates/base.html" %}
 {% block header %}
-<div class="topcenter">
-    <a class="skip-link" href="#main">
-     <i class="svg chevron"></i> Ir para o conteúdo <i class="svg chevron"></i>
-    </a>
-</div>
+{{ m00macros::m00skip() }}
 	{{ super() }}
 {% endblock %}
 

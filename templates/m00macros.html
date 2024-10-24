@@ -41,6 +41,21 @@ display: block;
 <button onclick="location.href='https://wa.me/5511933014430'" id="mywhatsappBtn" title="whatsapp"><img src="/icons/WhatsAppButtonGreenLarge.svg" alt="Botão Whatsapp" height="48px" width="207px"></button>
 {% endmacro %}
 
+{% macro m00skip() %}
+<style>
+</style>
+<button onclick="conteudo()" class="skip-link" title="Ir para o conteúdo principal"><i class="svg chevron"></i> Pular para o conteúdo <i class="svg chevron"></i></button>
+<script>
+function conteudo() {
+    const conteudo = document.getElementById('main');
+    conteudo.scrollIntoView();
+}
+</script>
+{% endmacro %}
+
+
+
+
 {% macro software() %}
 <div class="user-details">
   <h1> Software </h1>

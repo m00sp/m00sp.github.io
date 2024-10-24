@@ -109,19 +109,19 @@ user_title = "Hardware e Software"
 user_description = "Bicycle rights irony actually neutra typewriter lyfaxidermy -up ugh bushwick chia lo-f Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo par."
 menu = [
 #    {url = "home", name = "_", slash = true, blank = false, size="s110"},
-#    {url = "archive", name = "Pasta", slash = true, blank = false, size="s110"},
+    {url = "archive", name = "Blog", slash = true, blank = false, size="s110"},
 #    {url = "categories", name = "Categorias", slash = true, blank = false, size="s110"},
 #    {url = "tags", name = "Etiquetas", slash = true, blank = false, size="s110"},
     {url = "cv", name = "CV", slash = true, blank = true, size="s110"},
     {url = "contato", name = "Contato", slash = true, blank = false, size="s110"},
-#    {url = "about", name = "Sobre", slash = true, blank = false, size="s110"},
+#    {url = "sobre", name = "Sobre", slash = true, blank = false, size="s110"},
 ]
 menu_footer = [
     {url = "privacidade", name = "Privacidade", slash = true, blank = false, size="s90"},
 #    {url = "sitemap.xml", name = "Mapa", slash = false, blank = true, size="s90"},
     {url = "cv", name = "CV", slash = true, blank = true, size="s90"},
     {url = "contato", name = "Contato", slash = true, blank = false, size="s90"},
-#    {url = "about", name = "Sobre", slash = true, blank = false, size="s90"},
+    {url = "sobre", name = "Sobre", slash = true, blank = false, size="s90"},
 ]
 
 toc = true

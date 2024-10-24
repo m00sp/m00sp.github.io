@@ -1,6 +1,6 @@
 +++
 title = "About"
-path = "about"
+path = "en/sobre"
 template = "pages.html"
 draft = false
 +++
