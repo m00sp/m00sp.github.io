@@ -1,5 +1,5 @@
 +++
-title = "Meus Certificados"
+title = "Certificados"
 description = "Aqui estão todos meus certificados atualizados"
 date = 2024-09-03
 updated = 2024-09-03
@@ -12,11 +12,12 @@ toc = true
 assets = "cert/"
 +++
 {{ m00main() }}
-Todos meus certificados do [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/).
-Do [IFRS](https://ifrs.edu.br).
-Da [Cisco](https://www.netacad.com/).
-Do[Datadog Learning Center](https://learn.datadoghq.com/).
-E da [Fundação Linux](https://trainingportal.linuxfoundation.org/).
+Meus certificados das seguintes instituções:
+- [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/).
+- [IFRS](https://ifrs.edu.br).
+- [Cisco](https://www.netacad.com/).
+- [Datadog Learning Center](https://learn.datadoghq.com/).
+- [Fundação Linux](https://trainingportal.linuxfoundation.org/).
 
 <div style="text-align: center;">
 

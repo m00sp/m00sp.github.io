@@ -5,7 +5,7 @@ full_stop = "."  # Used at the end of a sentence.
 # Menu items should match the names in config.extra.menu
 Blog = "Blog"
 Sobre = "About"
-Pasta = "Posts"
+Arquivo = "Archive"
 Etiquetas = "Tags"
 Categories = "Categories"
 Contato = "Contact"

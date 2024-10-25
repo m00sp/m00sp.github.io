@@ -11,36 +11,33 @@ draft = false
 <br>
 <p align="center">In person I offer technical assistance in Sao Paulo (Capital)</p>
 <p align="center">For remote work, service quotes or contracts, please use one of the following contact methods:</p>
-<p align="center"><a class="link" href="#mail" data-scroll>E-Mail.</a></p>
-<p align="center"><a class="link" href="#whatsapp" data-scroll>WhatsApp.</a></p>
-<p align="center"><a class="link" href="#linkedin" data-scroll>LinkedIn.</a></p>
 <br>
 <br>
-<h1 align="center"><a name="mail">E-Mail</a></h1>
-<br>
-<p align="center"><a aria-label="" href="mailto:info@luis-ti.dev.br">🔻 Write me an e-mail here 🔻</p>
-{{ img(src="/icons/mail-icon.png" class="ci" alt="Mail" w="50" h="50") }}
-</a>
+<h1 align="center">E-mail</h1>
 <br>
 <br>
-<h1 align="center"><a name="whatsapp">WhatsApp</a></h1>
+<p align="center">
+{{ m00mail() }}
+</p>
 <br>
-<p align="center">🔻 Call-me on whatsapp here 🔻<br>
 <br>
+<h1 align="center">WhatsApp</h1>
+<br>
+<br>
+<p style="text-align:center">
 {{ m00whatsapp() }}
 </p>
 <br>
-<p align="center">🔻 Or scan the QR code 🔻</p>
 
 {{ img(src="/icons/shared_qr_code.png" class="ci" alt="Chat on WhatsApp QR" w=150 h=150) }}
 <br>
 <br>
-<h1 align="center"><a name="linkedin">LinkedIn</a></h1>
+<h1 align="center">LinkedIn</h1>
 <br>
-<p align="center"><a aria-label="Linkedin" href="https://www.linkedin.com/in/luis-ricardo-mart%C3%ADnez-d%C3%ADaz/">🔻 Contact me via LinkedIn, here 🔻</p>
-
-{{ img(src="/icons/m00linkedin-laranja.png" class="ci" alt="LinkedIn" w=50 h=50) }}
-</a>
+<br>
+<p align="center">
+{{ m00linkedin() }}
+</p>
 <br>
 <br>
 

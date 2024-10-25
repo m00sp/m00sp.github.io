@@ -1,6 +1,7 @@
 +++
 title = "My CV"
 description = "Here you can see my CV"
+path = "en/cv"
 date = "2024-08-14"
 updated = "2024-08-13"
 template = "m00cvs.html"
