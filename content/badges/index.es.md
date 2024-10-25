@@ -1,6 +1,6 @@
 +++
-title = "Mis Insignias de Credly"
-description = "Aquí puedes ver todas mis insignias de Credly actualizadas"
+title = "Credly"
+description = "Aquí puedes ver todas mis credenciales de Credly actualizadas"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
@@ -13,7 +13,7 @@ toc = true
 assets = "badges/"
 +++
 
-Puedes ir a mi [Perfil de Credly](https://www.credly.com/users/luis-ricardo-martinez-diaz) para ver mi portfolio de insignias completo o ver una descripción detallada de las habilidades obtenidas.
+Puedes ir a mi [Perfil de Credly](https://www.credly.com/users/luis-ricardo-martinez-diaz) para ver mi portfolio de credenciales completo y una descripción detallada de las habilidades ganadas.
 
 <div style="text-align: center;">
 

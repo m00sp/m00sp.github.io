@@ -109,7 +109,7 @@ user_title = "Hardware e Software"
 user_description = "Bicycle rights irony actually neutra typewriter lyfaxidermy -up ugh bushwick chia lo-f Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo par."
 menu = [
 #    {url = "home", name = "_", slash = true, blank = false, size="s110"},
-    {url = "archive", name = "Blog", slash = true, blank = false, size="s110"},
+    {url = "archive", name = "Arquivo", slash = true, blank = false, size="s110"},
 #    {url = "categories", name = "Categorias", slash = true, blank = false, size="s110"},
 #    {url = "tags", name = "Etiquetas", slash = true, blank = false, size="s110"},
     {url = "cv", name = "CV", slash = true, blank = true, size="s110"},

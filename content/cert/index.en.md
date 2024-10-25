@@ -1,5 +1,5 @@
 +++
-title = "My Certificates"
+title = "Certificates"
 description = "Here you can see all my updated certificates"
 date = 2024-09-03
 updated = 2024-09-03
