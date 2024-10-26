@@ -5,6 +5,8 @@ template = "pages.html"
 draft = false
 +++
 
+{{ m00main() }}
+
 Este site fornece uma demonstração do [tema abridge](https://github.com/Jieiku/abridge) de [Zola](https://www.getzola.org/), o gerador de sites estáticos.
 
 Abridge foi criado por [Jake G (jieiku)](https://github.com/Jieiku) para ser rápido e leve, usando html semântico, um [abridge.css](https://github.com/Jieiku/abridge.css) de clase-leve, e JS Não Mandatório.

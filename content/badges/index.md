@@ -13,6 +13,8 @@ toc = true
 assets = "badges/"
 +++
 
+{{ m00main() }}
+
 Você pode ir ao meu [Perfil da Credly](https://www.credly.com/users/luis-ricardo-martinez-diaz) para ver meu portfolio de credenciais completo e uma descrição detalhada das habilidades ganhadas.
 
 <div style="text-align: center;">
