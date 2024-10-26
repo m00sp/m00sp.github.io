@@ -6,6 +6,8 @@ template = "pages.html"
 draft = false
 +++
 
+{{ m00main() }}
+
 ## Privacidad
 
 

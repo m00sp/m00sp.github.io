@@ -6,6 +6,8 @@ template = "pages.html"
 draft = false
 +++
 
+{{ m00main() }}
+
 <br>
 <p style="text-align: center;">Pessoalmente ofereço assistência técnica em São Paulo (Capital).</p>
 <p style="text-align: center;">Para trabalho remoto, orçamento de serviços ou contratações, utilize um dos seguintes meios de contato:</p>

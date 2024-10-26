@@ -6,6 +6,7 @@ template = "pages.html"
 draft = false
 +++
 
+{{ m00main() }}
 <br>
 <p align="center">In person I offer technical assistance in Sao Paulo (Capital)</p>
 <p align="center">For remote work, service quotes or contracts, please use one of the following contact methods:</p>
