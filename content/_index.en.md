@@ -3,7 +3,6 @@ paginate_by = 3
 sort_by = "date"
 template = "pages.html"
 +++
-{{ m00main() }}
 {{ m00precallen() }}
 {{ m00hardwareen() }}
 {{ m00softwareen() }}

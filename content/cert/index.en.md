@@ -12,11 +12,7 @@ toc = true
 assets = "cert/"
 +++
 
-All my certificates from the [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/).
-The [IFRS](https://ifrs.edu.br).
-[Cisco](https://www.netacad.com/).
-[Datadog Learning Center](https://learn.datadoghq.com/).
-And [The Linux Foundation](https://trainingportal.linuxfoundation.org/).
+All my certificates from the [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/). [IFRS](https://ifrs.edu.br). [Cisco](https://www.netacad.com/). [Datadog Learning Center](https://learn.datadoghq.com/).[The Linux Foundation](https://trainingportal.linuxfoundation.org/).
 
 <div style="text-align: center;">
 
