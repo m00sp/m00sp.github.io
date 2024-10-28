@@ -8,7 +8,7 @@ draft = false
 [taxonomies]
 tags = ["Credly"]
 [extra]
-keywords = "Credly, Badges, Training, Course, Linux"
+keywords = "Credly, Badges, Training, Course, Linuxi, Datadog, Cisco"
 toc = true
 assets = "badges/"
 +++
@@ -23,4 +23,4 @@ You can go to my [Credly Profile](https://www.credly.com/users/luis-ricardo-mart
 
 </div>
 
-
+{{ m00backtop() }}

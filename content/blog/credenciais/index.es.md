@@ -8,7 +8,7 @@ draft = false
 [taxonomies]
 tags = ["Credly"]
 [extra]
-keywords = "Credly, Badges, Training, Course, Linux"
+keywords = "Credly, Credenciales, Entrenamiento, Cursos, Linux, Datadog, Cisco"
 toc = true
 assets = "badges/"
 +++
@@ -21,3 +21,6 @@ Puedes ir a mi [Perfil de Credly](https://www.credly.com/users/luis-ricardo-mart
 
 {{ m00galeria2() }}
 
+</div>
+
+{{ m00backtop() }}

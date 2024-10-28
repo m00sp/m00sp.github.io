@@ -14,7 +14,7 @@ assets = "cert/"
 
 {{ m00main() }}
 
-All my certificates from the [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/). [IFRS](https://ifrs.edu.br). [Cisco](https://www.netacad.com/). [Datadog Learning Center](https://learn.datadoghq.com/).[The Linux Foundation](https://trainingportal.linuxfoundation.org/).
+All my certificates from the [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/)-[Ceptro.br](https://ceptro.br/). [IFRS](https://ifrs.edu.br). [Cisco](https://www.netacad.com/). [Datadog Learning Center](https://learn.datadoghq.com/).[The Linux Foundation](https://trainingportal.linuxfoundation.org/).
 
 <div style="text-align: center;">
 
@@ -22,3 +22,4 @@ All my certificates from the [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/)
 
 </div>
 
+{{ m00backtop() }}
