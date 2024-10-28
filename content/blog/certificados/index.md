@@ -7,18 +7,19 @@ draft = false
 
 [taxonomies]
 [extra]
-keywords = "Foundação Linux, CGI.br, NIC.br, Netacad, Cisco, IFRS, Datadog, Certificado"
+keywords = "Foundação Linux, CGI.br, NIC.br, Ceptro.br, Netacad, Cisco, IFRS, Datadog, Certificado"
 toc = true
 assets = "cert/"
 +++
 
 {{ m00main() }}
 
-Meus certificados das seguintes instituções: [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/). [IFRS](https://ifrs.edu.br). [Cisco](https://www.netacad.com/). [Datadog Learning Center](https://learn.datadoghq.com/). [Fundação Linux](https://trainingportal.linuxfoundation.org/).
+Meus certificados das seguintes instituções: [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/)-[Ceptro.br](https://ceptro.br/). [IFRS](https://ifrs.edu.br). [Cisco](https://www.netacad.com/). [Datadog Learning Center](https://learn.datadoghq.com/). [Fundação Linux](https://trainingportal.linuxfoundation.org/).
 
 <div style="text-align: center;">
 
 {{ m00galeria() }}
 
 </div>
+
 {{ m00backtop() }}
