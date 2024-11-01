@@ -1,15 +1,14 @@
 +++
-title = "Site Resume"
+title = "Site Overview"
 description = "Luis-TI.dev.br is a fast, lightweight and multi-language site powered by Zola and the abridge theme, using semantic HTML, CSS and No Mandatory JS."
 date = 2024-10-31T15:00:00Z
 updated = 2024-10-31T15:00:00Z
 draft = false
 
 [taxonomies]
-tags = ["Resume"]
+tags = ["Overview"]
 [extra]
 toc = true
-series = "Resume"
 +++
 
 {{ m00main() }}
