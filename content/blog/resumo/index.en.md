@@ -1,6 +1,6 @@
 +++
 title = "Site Overview"
-description = "Luis-TI.dev.br is a fast, lightweight and multi-language site powered by Zola and the abridge theme, using semantic HTML, CSS and No Mandatory JS."
+description = "Luis-TI.dev.br is a fast, lightweight and multi-language site powered by Zola and the Abridge theme, using semantic HTML, CSS and No Mandatory JS."
 date = 2024-10-31T15:00:00Z
 updated = 2024-10-31T15:00:00Z
 draft = false
@@ -13,7 +13,7 @@ toc = true
 
 {{ m00main() }}
 
-A fast, lightweight, and multi-language static site using [Zola](https://getzola.org) and the theme [abridge](https://github.com/Jieiku/abridge). With perfect scores in: [Lighthouse](https://pagespeed.web.dev/report?url=luis-ti.dev.br) (Google), [YellowLabTools](https://yellowlab.tools/) (Open Source), and [Observatory](https://developer.mozilla.org/en-US/observatory/analyze?host=luis-ti.dev.br) (Mozilla). Here you can see a print of my Google Lighthouse's score.
+A fast, lightweight, and multi-language static site using [Zola](https://getzola.org) and the theme [abridge](https://github.com/Jieiku/abridge). With perfect scores in: [Lighthouse](https://pagespeed.web.dev/report?url=luis-ti.dev.br) (Google) and [YellowLabTools](https://yellowlab.tools/) (Open Source). Here you can see a print of my Google Lighthouse's score.
 <!-- more -->
 
 ![lighthouse](lighthouse.png)
