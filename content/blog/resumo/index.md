@@ -18,33 +18,33 @@ Um site estático rápido, liviano e multi-linguagem usando [Zola](https://getzo
 
 ![lighthouse](lighthouse.png)
 
-Isto é possivel usando HTML semântico, CSS and JavaScript Não Mandatorio. Besides of that this site counts with PWA support, you can download and install it as a local application without consuming internet, available with Google Chrome. Best accessibility practice and others benefits. Here is an extended list with more features and details of what I can offer for your site.
+Isto é possivel usando HTML semântico, CSS e JavaScript Não Mandatorio. Alias esta site conta com suporte PWA, você pode descarregar e instalar o site como um aplicativo local, disponível com Google Chrome. Melhores práticas de accessivilidade e outros beneficios. Aquí há uma lista extendida com mais características y detalhes do que posso ofereçer para seu site.
 
 ## Características
 
 - Pontuação perfeita de [Lighthouse](https://pagespeed.web.dev/report?url=luis-ti.dev.br), [YellowLabTools](https://yellowlab.tools/), e [Observatory](https://developer.mozilla.org/en-US/observatory/analyze?host=luis-ti.dev.br).
-- [Suporte PWA](#pwa-progressive-web-app) (Aplicativo Web Progressivo) for Entirely Offline Site with full search support.
-- [Dark, Light, Auto, and Switcher themes](#dark-or-light-themes).
-- Multi-language support.
-- Search support.
-- [Search Suggestions](#search-suggestions), with navigation keys and Search Results Page.
-- [SEO](#seo-and-header-tags) support (Search Engine Optimization).
-- [Pagination](#pagination) with numbered paginator on index.
-- Title Based Previous and Next Article links at bottom of Article.
-- Table of Contents in page Index (with  clickable links).
-- Recent Posts Block.
-- Back to Top button.
-- Email link in footer obfuscation for anti-spam.
-- [Archive page](https://luis-ti.dev.br/archivo/).
-- [Tags](https://luis-ti.dev.br/tags/).
-- Categories. Similar to Tags but for complex pages with lots of sections. I don't use it.
-- Social icon links in footer.
-- Responsive design (mobile first).
-- Video Shortcodes* for embedded content from Youtube, Vimeo or Streamable.
-- Other Media Shortcodes for videos, images and audio for your rich-content webpage.
-- Other Shortcodes to show data, if your needed.
+- [Suporte PWA](#pwa-progressive-web-app) (Aplicativo Web Progressivo) para um Site Totalmente Offlline com suporte de busqueda completo.
+- [Escuro, Claro, Auto, e Switcher themes](#dark-or-light-themes).
+- Suporte para Multi-linguagem.
+- Suporte de búsqueda.
+- [Sugestões de búsqueda](#search-suggestions), com teclas de navegação e Página de Resultados de busqueda.
+- Suporte [SEO](#seo-and-header-tags) (Otimização para Motores de Búsqueda).
+- [Paginação](#pagination) com paginador numerado no índice.
+- Links Título Baseado no Artigo Previo ou Próximo embaixo do Artigo.
+- Tabua de Conteúdo em Indice de página (com links  clickavel).
+- Bloco com Postagens Recentes.
+- Botão Voltar ao Topo.
+- Email link no rodapé com obfuscação para anti-spam.
+- [Página de Archivo](https://luis-ti.dev.br/archivo/).
+- [Etiquetas](https://luis-ti.dev.br/tags/).
+- Categorias. Similar às Etiquetas pero para páginas complexa com muitas secções. Eu não estou usando.
+- Icones Links das Redes Sociais no rodapé.
+- Desenho Responsivo (primeiro movile).
+- Video Shortcodes* para conteúdo embutido do Youtube, Vimeo or Streamable.
+- Outros Media Shortcodes para videos, imagens e audio para uma página web rica em conteúdo.
+- Outros Shortcodes para mostrar dados, se você precisar.
 
-By now i leave a short description of some of these features down below.
+Por ahora deixo uma descrição curta de algumas de estas características e funcionalidades aqui abaixo.
 
 ### Search Suggestions
 
