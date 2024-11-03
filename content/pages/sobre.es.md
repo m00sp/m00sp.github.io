@@ -7,11 +7,18 @@ draft = false
 
 {{ m00main() }}
 
-Este sitio proporciona una demostración del [tema abridge](https://github.com/Jieiku/abridge) de [Zola](https://www.getzola.org/), el generador de sitios estáticos.
+Este es um sitio web estático trilingüe: portugués, español e inglés, realizado por [Luis Ricardo Martínez Díaz](https://github.com/m00sp) usando [Zola](https://www.getzola.org/), El generador de sitios web estáticos escrito en Rust, el tema [Abridge](https://github.com/Jieiku/abridge) y dominio del [Registro.br](https://registro.br).
 
-Abridge fue creado por [Jake G (jieiku)](https://github.com/Jieiku) para ser rápido y ligero, usando html semántico, un [abridge.css](https://github.com/Jieiku/abridge.css) de clase-ligera, y JS No Mandatorio.
+El mismo provee un ejemplo del tipo de sitio web que puedo hacer para prestadores de servicios y pequeñas o medianas empresas, usando las [categorías](https://registro.br/dominio/categorias/) de dominio .br ofrecidas por el Registro.br.
 
-Casi la mitad de los temas de Zola bajo licencia MIT existentes sirvieron de inspiración para las caraterísticas y el diseño de este tema.
+El sitio fue desarrollado para ser rápido y ligero, usando html semántico, CSS y JS No Mandatorio. Si quiere conocer más sobre las características y la puntuación de sitio web, lea el [resumen del sitio web](@/blog/resumo/index.es.md) donde hay una explicación más detallada.
 
-Abridge está licenciado bajo la [licencia MIT](https://opensource.org/licenses/MIT).
+Para saber sobre la política de privacidad, lea [Privacidad](@/pages/privacidade.es.md).
 
+Se quiere saber sobre mi experiencia profesional, vea mi [CV](@/pages/cv.es.md).
+
+Para comunicarse conmigo, entre en [contacto](@/pages/contato.es.md).
+
+El resto del contenido como mis [certificados](@/blog/certificados/index.md) y otras publicaciones están en el [Blog](@/blog/_index.es.md).
+
+{{ m00backtop() }}
