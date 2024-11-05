@@ -2,7 +2,7 @@
  *   Extra - Put your extra SASS/CSS here, it will get bundled with abridge.css
  *****************************************************************************/
 #print-button {
-  heigth: 50;
+  heigth: 50px;
   width: 50px;
   position: fixed; /* Fixed/sticky position */
   top: 0px; /* Place the button at the bottom of the page */
@@ -23,9 +23,8 @@
 }
 #print-button:focus {
     background-color: #f90; /* Add a dark-grey background on hover */
-    display: relative;
     border: solid 2px orange;
-    font-size: 24;
+    font-size: 24px;
     //margin: 0 0 0 0;
     //padding: 0 0 0 0;
     border-radius: 10px;
@@ -63,9 +62,8 @@
 }
 
 #myBtn:focus {
-    display: relative;
     border: solid 2px orange;
-    font-size: 24;
+    font-size: 24px;
     //margin: 0 0 0 0;
     //padding: 0 0 0 0;
     background-color: #f90; /* Add a dark-grey background on hover */
