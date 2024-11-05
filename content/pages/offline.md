@@ -1,10 +1,10 @@
 +++
-title = "Offline Mode"
-path = "offline.es"
+title = "Modo Off-line"
+path = "offline"
 template = "pages.html"
 draft = false
 +++
 
-## Offline Mode
+## Modo Offline
 
-Sorry, no cache found and it looks like you’re offline, a connection is required.
+Desculpe, nenhum cache foi encontrado e parece que você está off-line, é necessária uma conexão.

@@ -4,7 +4,7 @@ description = "Luis-TI.dev.br is a fast, lightweight and multi-language site pow
 date = 2024-10-31T15:00:00Z
 updated = 2024-10-31T15:00:00Z
 draft = false
-
+template = "page.html"
 [taxonomies]
 tags = ["Overview"]
 [extra]
