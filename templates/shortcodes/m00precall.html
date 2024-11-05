@@ -2,7 +2,7 @@
 <head>
     <style>
     .user-details {
-      //text-align: center;
+      text-align: center;
       position: relative;
       text-justify: inter-word;
       margin: 25px auto;
@@ -11,17 +11,19 @@
       box-shadow: 10px 10px 20px #613200;
       border: 1px solid orange;
       border-radius: 25px;
-      justify-content: space-between
+      justify-content: space-between;
         h2 {
-        text-align: left;
+        text-align: center;
+        }
         p {
-                    text-align: justify;
-                    text-justify: inter-word;
+        text-align: center;
+        text-align: justify;
+        text-justify: inter-word;
         }
     }
     .linear-text-gradient {
         background: linear-gradient(to right, #f90, #f91, #f92);
-        -webkit-background-clip: text;
+        webkit-background-clip: text;
         background-clip: text;
         color: transparent;
     }
@@ -32,12 +34,12 @@
             border: 1px solid #ccc;
             margin: 50px;
             box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
-        }
+    }
     </style>
-<head>
+</head>
 <div class="user-details">
     <h2>Assistência técnica</h2>
-    <p>Suporte técnico e consultoria em TI em São Paulo (Capital). Assistência remota a todo o mundo em português, inglês ou espanhol. Manda um whatsapp agora e atendo sua consulta já.</p>
+    <p>Suporte técnico e consultoria em TI em São Paulo (Capital). Assistência remota em Português, Inglês ou Espanhol. Envie uma mensagem.</p>
         {%- block content %}
             {{ m00macros::m00whatsapp() }}
         {%- endblock content %}
