@@ -9,12 +9,15 @@ draft = false
 {{ m00main() }}
 
 <div class="box">
+<br>
 <p style="text-align: center;">Pessoalmente ofereço assistência técnica em São Paulo, Capital.
-<br>Para trabalho remoto, orçamento de serviços ou contratações, utilize um dos seguintes meios de contato:</p>
+<br>Para assistência remota, orçamento de serviços ou contratações, utilize um dos seguintes meios de contato.</p>
+<br>
 </div>
 <div class="box">
 <h1 style="text-align: center;">E-mail</h1>
 <p style="text-align: center;">
+<br>
 {{ m00mail()  }}
 <br>
 <br>
@@ -22,8 +25,6 @@ draft = false
 </div>
 <div class="box">
 <h1 style="text-align: center;">WhatsApp</h1>
-
-<br>
 <br>
 <p style="text-align: center;">
 {{ m00whatsapp() }}
@@ -36,7 +37,6 @@ draft = false
 <div class="box">
 <h1 style="text-align: center;">LinkedIn</h1>
 <br>
-<br>
 <p style="text-align: center;">
 {{ m00linkedin() }}
 </p>
@@ -44,8 +44,10 @@ draft = false
 <br>
 </div>
 <div class="box">
-{{ img(src="/icons/ferris-happy.svg" class="ci" alt="Ferris is Happy" w="75" h="75") }}
-
+<br>
 <p style="text-align: center;">Obrigado, pela visita, até já.</p>
+<br>
+{{ img(src="/icons/ferris-happy.svg" class="ci" alt="Ferris is Happy" w="75" h="75") }}
+<br>
 </div>
 {{ m00backtop() }}
