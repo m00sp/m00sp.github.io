@@ -10,5 +10,3 @@ template = "pages.html"
 {{ m00software() }}
 {{ m00devicon() }}
 {{ m00backtop() }}
-
-

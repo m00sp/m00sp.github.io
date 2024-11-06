@@ -4,3 +4,7 @@
 {{ m00macros::m00skip() }}
 	{{ super() }}
 {% endblock %}
+{% block footer %}
+	{{ super() }}
+	{{ m00macros::m00css() }}
+{% endblock %}
