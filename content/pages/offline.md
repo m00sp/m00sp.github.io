@@ -1,5 +1,5 @@
 +++
-title = "Modo Sem Offline"
+title = "Modo Offline"
 path = "offline"
 template = "pages.html"
 draft = false
