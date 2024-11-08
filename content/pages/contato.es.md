@@ -11,7 +11,7 @@ draft = false
 <br>
 <p style="text-align: center;">Personalmente ofrezco asistencia técnica en San Pablo, Capital.
 <br>
-Para asistencia remota, presupuesto de servicios o contrataciones utilice uno de los siguientes medios de contacto.</p>
+Para asistencia remota, presupuesto de servicios o contrataciones, utilice uno de los siguientes medios de contacto.</p>
 <br>
 </div>
 <div class="box">

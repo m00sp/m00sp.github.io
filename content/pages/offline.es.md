@@ -1,10 +1,10 @@
 +++
-title = "Modo Offline"
+title = "Modo Sin Conexión"
 path = "es/offline"
 template = "pages.html"
 draft = false
 +++
 
-## Modo Offline
+## Modo Sin Conexión
 
-Lo siento, no hay caché y parece que estás Offline, una conexión es necesaria.
+Lo siento, no hay caché y parece que estás Desconectado, una conexión es necesaria.
