@@ -15,7 +15,7 @@ Este é um site estático trilíngue: Português, Espanhol e Inglês, feito por 
 
 O mesmo fornece um exemplo do tipo de site que posso fazer para prestadores de serviços e pequenas ou médias empresas, usando as [categorias](https://registro.br/dominio/categorias/) de domínio .br oferecidas pelo Registro.br.
 
-O site foi desenvolvido para ser rápido e leve, usando html semântico, CSS e JS Não Mandatório. Se quiser conhecer mais sobre as características e a pontuação do site leia [Resumo do Site](@/blog/resumo/index.md), onde há uma explicação mais detalhada.
+O site foi desenvolvido para ser rápido e leve, usando html semântico, CSS e JavaScript Não Mandatório. Se quiser conhecer mais sobre as características e a pontuação do sitei, leia [Resumo do Site](@/blog/resumo/index.md), onde há uma explicação mais detalhada.
 
 Para saber sobre a política de privacidade, leia [Privacidade](@/pages/privacidade.md).
 

@@ -15,7 +15,7 @@ This is a trilingual static site: Portuguese, Spanish and English, made by [Luis
 
 The site provides an example of the type of site that i can make for service providers and small or medium-sized companies, using the .br domain [categories](https://registro.br/dominio/categorias/) offered by Registro.br.
 
-The site was developed to be fast and lightweight, using semantic html, CSS and No Mandatory JS. If you want to known more about the site's features and scoring, read the [Site Overview](@/blog/resumo/index.en.md), where there is a more detailed explanation.
+The site was developed to be fast and lightweight, using semantic html, CSS and No Mandatory JavaScript. If you want to known more about the site's features and scoring, read the [Site Overview](@/blog/resumo/index.en.md), where there is a more detailed explanation.
 
 To known about the Privacy Policy, read [Privacy](@/pages/privacidade.en.md).
 
