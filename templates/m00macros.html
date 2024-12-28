@@ -49,12 +49,28 @@ function conteudo() {
 </script>
 {% endmacro %}
 
-{% macro m00css() %}
-<p>
+{% macro m00top() %}
+<style>
+#selo {
+		text-align: left;
+		font-size: 60px;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+}
+</style>
+<br>
+<div id="selo">
+    <a href="https://top.nic.br/site/luis-ti.dev.br/89404/">
+        <img style="border:0; width:75px;height:100px;"
+       		src="/imagens/selo-website-test.png"
+       		alt="Selo TOP!" />
+    </a>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss"
             alt="Valid CSS!" />
     </a>
-</p>
+</div>
 {% endmacro %}
