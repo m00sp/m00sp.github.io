@@ -104,9 +104,6 @@ taxonomies = [
 ### size: s150, s140, s130, s120, s110, s95, s90, s85, s80, s75, s70, false(full size)
 ### divider:    " "        "&middot;"        "&bull;"
 ###############################################################################
-username = "Luis TI"
-user_title = "Hardware e Software"
-user_description = "Bicycle rights irony actually neutra typewriter lyfaxidermy -up ugh bushwick chia lo-f Occupy bitters pour-over snackwave you probably haven't heard of them small batch.Cornholemustache man bun letterpress echo par."
 menu = [
 #    {url = "home", name = "_", slash = true, blank = false, size="s110"},
 #    {url = "archive", name = "Arquivo", slash = true, blank = false, size="s110"},
@@ -168,7 +165,7 @@ copyright_override = '© $CURRENT_YEAR $SITE_TITLE'
 ###############################################################################
 
 title_separator = "|"  # Separator between title and title_addition, set as |, -, _, etc
-title_addition = "Hardware and Software" # a default value for title addition
+title_addition = "Hardware e Software" # a default value for title addition
 author = "Luis Ricardo Martínez Díaz" # Put Your Name here
 keywords = "Abridge, Abridge.css, Zola, Theme, Zola Theme, getzola, Semantic Html, Fast, lightweight" # used for the primary site index
 #banner = "banner.png" # Used as default image for OpenGraph/Twitter if page specific image is undefined.
@@ -194,7 +191,7 @@ mail = "info@luis-ti.dev.br"
 #kofi = "your-user-name"
 #discord = "your-discord" # Everything after https://discord.com/   eg: invite/my-server  *or*  servers/my-server-id
 #twitter = "your-user-name"
-#facebook = "your-user-name"
+facebook = "448409651699652"
 linkedin = "luis-ricardo-martínez-díaz"
 #gitlab = "your-user-name"
 github = "m00sp"
@@ -204,7 +201,7 @@ github = "m00sp"
 #python = "your-user-name"
 #docker = "your-user-name"
 #stack = "your-user-name"
-#instagram = "your-user-name"
+instagram = "luis_ti.dev.br"
 #pixelfed = "https://pixelfed.example.com/" # Heaviest icon, off by default
 #pinterest = "your-user-name"
 #twitch = "your-user-name"
