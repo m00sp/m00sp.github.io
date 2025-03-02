@@ -1,9 +1,9 @@
 <div>
 {% for asset in page.assets -%}
   {%- if asset is matching("[.](avif|webp)$") -%}
-    {% set image = resize_image(path=asset, width=290, height=230, format="webp") %}
+    {% set image = resize_image(path=asset, width=435, height=345, format="webp") %}
     <a href="{{ get_url(path=asset) }}" target="_blank">
-      <img src="{{ image.url }}" width="290" height="230" alt="Cert" />
+      <img src="{{ image.url }}" width="435" height="345" alt="Cert" />
     </a>
   {%- endif %}
 {%- endfor %}
