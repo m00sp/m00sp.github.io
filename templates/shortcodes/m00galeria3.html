@@ -1,0 +1,13 @@
+<div>
+{% for asset in page.assets -%}
+  {%- if asset is matching("[.](webp|avif)$") -%}
+    <a href="{{ get_url(path=asset) }}" target="_blank">
+{% set mdata = get_image_metadata(path=asset) %}
+{% set w = (mdata.width / 5) | int %}
+{% set h = (mdata.height / 5) | int %}
+{% set image = resize_image(path=asset, width=w, height=h, op="fit_width", format="webp") %}
+<img src="{{ image.url }} " srcset="/{{asset}} 5x"/>
+    </a>
+  {%- endif %}
+{%- endfor %}
+</div>

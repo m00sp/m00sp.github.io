@@ -96,3 +96,43 @@ src="https://www.facebook.com/tr?id=1157605809271676&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Meta Pixel Code -->
 {% endmacro %}
+
+{# esta macro no funciona #}
+{% macro m00reading() %}
+<style>
+.reading-line-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 6px;
+    background-image: linear-gradient(45deg, #ff7e5f, #feb47b);
+    z-index: 1000;
+}
+
+.reading-line-container::after {
+    position: absolute;
+    top: 1px;
+    right: 2px;
+    font-size: 10px;
+    color: #333;
+}
+</style>
+<div class="reading-line-container" id="readingLine" data-progress="0"></div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const readingLine = document.getElementById('readingLine');
+    const windowHeight = window.innerHeight;
+    const totalScrollHeight = document.body.clientHeight - windowHeight;
+
+    window.addEventListener('scroll', function() {
+      const scrollPosition = window.scrollY;
+      const scrollPercentage = (scrollPosition / totalScrollHeight) * 100;
+      const lineWidth = Math.min(scrollPercentage, 100); 
+
+      readingLine.style.width = lineWidth + '%';
+      readingLine.setAttribute('data-progress', Math.round(lineWidth));
+    });
+  });
+</script>
+{% endmacro m00reading %}
