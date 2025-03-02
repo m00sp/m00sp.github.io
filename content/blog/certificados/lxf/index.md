@@ -18,7 +18,7 @@ Meus certificados da [Fundação Linux](https://trainingportal.linuxfoundation.o
 
 <div style="text-align: center;">
 
-{{ m00galeria3() }}
+{{ m00galeria() }}
 
 </div>
 
