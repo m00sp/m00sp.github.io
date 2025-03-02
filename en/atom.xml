@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Luis TI</title>
+    <subtitle>Hardware and Software</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://luis-ti.dev.br/en/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://luis-ti.dev.br"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-31T15:00:00+00:00</updated>
+    <id>https://luis-ti.dev.br/en/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Site Overview</title>
+        <published>2024-10-31T15:00:00+00:00</published>
+        <updated>2024-10-31T15:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/en/blog/resumo/"/>
+        <id>https://luis-ti.dev.br/en/blog/resumo/</id>
+        
+        <summary type="html">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;A fast, lightweight, and multi-language static site using &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt; and the theme &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Jieiku&#x2F;abridge&quot;&gt;abridge&lt;&#x2F;a&gt;. With perfect scores in: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pagespeed.web.dev&#x2F;report?url=luis-ti.dev.br&quot;&gt;Lighthouse&lt;&#x2F;a&gt; (Google) and &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;yellowlab.tools&#x2F;&quot;&gt;YellowLabTools&lt;&#x2F;a&gt; (Open Source). Here you can see a print of my Google Lighthouse&#x27;s score.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Credly</title>
+        <published>2024-09-17T00:00:00+00:00</published>
+        <updated>2024-09-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/en/blog/credenciais/"/>
+        <id>https://luis-ti.dev.br/en/blog/credenciais/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/en/blog/credenciais/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;You can go to my &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.credly.com&#x2F;users&#x2F;luis-ricardo-martinez-diaz&quot;&gt;Credly Profile&lt;&#x2F;a&gt; to see my complete Badge Portfolio and a detailed description of the skills gained.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Certificates</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/en/blog/certificados/"/>
+        <id>https://luis-ti.dev.br/en/blog/certificados/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/en/blog/certificados/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;All my certificates from the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cgi.br&#x2F;&quot;&gt;CGI.br&lt;&#x2F;a&gt;-&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nic.br&#x2F;&quot;&gt;NIC.br&lt;&#x2F;a&gt;-&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ceptro.br&#x2F;&quot;&gt;Ceptro.br&lt;&#x2F;a&gt;. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ifrs.edu.br&quot;&gt;IFRS&lt;&#x2F;a&gt;. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.netacad.com&#x2F;&quot;&gt;Cisco&lt;&#x2F;a&gt;. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;learn.datadoghq.com&#x2F;&quot;&gt;Datadog Learning Center&lt;&#x2F;a&gt;.&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;trainingportal.linuxfoundation.org&#x2F;&quot;&gt;The Linux Foundation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-10d7ad8f-8921-4cf0-8647-9a6a7a50f9cb-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-10d7ad8f-8921-4cf0-8647-9a6a7a50f9cb-certificate.e03e9a5ef9f04c46.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-21d518a9-5e68-4ce7-ad7e-47d67a986e4b-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-21d518a9-5e68-4ce7-ad7e-47d67a986e4b-certificate.882d1e06fb03c97c.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-2511d342-bef4-40da-825c-eeec6c1c4bbb-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-2511d342-bef4-40da-825c-eeec6c1c4bbb-certificate.6df872b9ab331e92.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-3249eff9-35bd-4803-89a9-e2875bd90df1-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-3249eff9-35bd-4803-89a9-e2875bd90df1-certificate.8a1abf7e1d9c134f.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-42ebe093-f896-48ff-8037-126c742ad3bd-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-42ebe093-f896-48ff-8037-126c742ad3bd-certificate.9738d40fb562cc92.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-4ccddac2-62c4-4873-b783-586834d627fa-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-4ccddac2-62c4-4873-b783-586834d627fa-certificate.f0b80163c03dd0d7.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-4f0a9e7f-0711-4b40-a93b-8b5e3c249330-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-4f0a9e7f-0711-4b40-a93b-8b5e3c249330-certificate.73e5cba81951b9f6.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-5b6511c0-33e6-47e2-b57f-9e2110404c19-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-5b6511c0-33e6-47e2-b57f-9e2110404c19-certificate.09cff46b9aa33332.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-71d48ac3-f709-46e3-9b6a-b600125aae92-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-71d48ac3-f709-46e3-9b6a-b600125aae92-certificate.e186b56eb4dcfae0.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-75ca0949-ff11-4f90-9814-7082f43d2d81-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-75ca0949-ff11-4f90-9814-7082f43d2d81-certificate.0bc0fb48335b5e02.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-8f410fe5-7d38-4b9a-94b0-f4b0dbe98177-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-8f410fe5-7d38-4b9a-94b0-f4b0dbe98177-certificate.b81dd77515273996.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-96dc90a2-2136-4947-9db3-bc9f6f0701fc-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-96dc90a2-2136-4947-9db3-bc9f6f0701fc-certificate.e9e78aa720b885ae.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-a51b7620-f3e2-4771-9623-0456022b23e0-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-a51b7620-f3e2-4771-9623-0456022b23e0-certificate.191f583257dabe05.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-a92266ac-4385-49fc-b194-ff39ca0ed701-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-a92266ac-4385-49fc-b194-ff39ca0ed701-certificate.3d126142f13ba978.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-afabf1b9-af6a-4f0a-bb51-41858960804c-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-afabf1b9-af6a-4f0a-bb51-41858960804c-certificate.27c122f349f2a39c.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-b6acc600-5412-4aa9-a997-58c144c6ba51-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-b6acc600-5412-4aa9-a997-58c144c6ba51-certificate.88fe221abae47b99.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-b9c94545-220b-406d-a5ff-7aba459cabda-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-b9c94545-220b-406d-a5ff-7aba459cabda-certificate.0ad67e76afc7e171.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-c196c30c-2605-4195-ae47-6c24ca6f5232-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-c196c30c-2605-4195-ae47-6c24ca6f5232-certificate.fc0d91da2ecddc7b.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-cb3fa59e-9958-4b53-8a82-1adf894e7426-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-cb3fa59e-9958-4b53-8a82-1adf894e7426-certificate.148844070a08e2a2.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-d0fc301d-a2a4-4b24-9925-092947d95c49-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-d0fc301d-a2a4-4b24-9925-092947d95c49-certificate.76b32e878d78e08f.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-d190ce6d-2f7b-41d4-afe0-a3286ed42586-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-d190ce6d-2f7b-41d4-afe0-a3286ed42586-certificate.d1a0f40290c3599a.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-d1c6c186-8af7-4e4c-b215-6135e48ed345-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-d1c6c186-8af7-4e4c-b215-6135e48ed345-certificate.fe4a34039323fa20.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-de20ba08-3458-49b4-88e0-a72e0921e1cc-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-de20ba08-3458-49b4-88e0-a72e0921e1cc-certificate.9f758fb6b4f1634d.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-f9c155ff-affd-4fd3-a5a5-14d38559c0f4-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-f9c155ff-affd-4fd3-a5a5-14d38559c0f4-certificate.e2188cd221343664.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-fb5f298b-4abd-49fe-9088-a930041fe761-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-fb5f298b-4abd-49fe-9088-a930041fe761-certificate.192dc9cc0325cca3.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>My CV</title>
+        <published>2024-08-14T00:00:00+00:00</published>
+        <updated>2024-08-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/en/cv/"/>
+        <id>https://luis-ti.dev.br/en/cv/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/en/cv/">&lt;button class=&quot;no-print&quot; id=&quot;print-button&quot; onclick=&quot;imprimir()&quot; title=&quot;Imprimir&quot;&gt;
+&lt;svg fill=&quot;#000000&quot; viewBox=&quot;0 0 16 16&quot; xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; style=&quot;--darkreader-inline-fill: #000000;&quot; data-darkreader-inline-fill=&quot;&quot;&gt;&lt;g id=&quot;SVGRepo_bgCarrier&quot; stroke-width=&quot;0&quot;&gt;&lt;&#x2F;g&gt;&lt;g id=&quot;SVGRepo_tracerCarrier&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;&#x2F;g&gt;&lt;g id=&quot;SVGRepo_iconCarrier&quot;&gt; &lt;path d=&quot;M2 9V0h12v9h2v7H0V9h2zm0 2v3h12v-3H2zm1 1h2v1H3v-1zM4 2v7h8V2H4zm1 2h6v1H5V4zm0 2h6v1H5V6z&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;&#x2F;path&gt; &lt;&#x2F;g&gt;&lt;&#x2F;svg&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+function imprimir() {
+  window.print();
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+&lt;h2 id=&quot;luis-ricardo-martinez-diaz&quot;&gt;&lt;center&gt;Luis Ricardo Martínez Díaz&lt;&#x2F;center&gt;&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;E-mail: &lt;a href=&quot;mailto:info@luis-ti.dev.br&quot;&gt;info@luis-ti.dev.br&lt;&#x2F;a&gt;. | Mobile: &lt;a href=&quot;tel:+5511933014430&quot;&gt;5511933014430&lt;&#x2F;a&gt;. | Github: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;m00sp&quot;&gt;m00sp&lt;&#x2F;a&gt;. | Location: Vila Matilde, SP, Brazil. &lt;&#x2F;br&gt; &lt;center&gt;Site: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.luis-ti.dev.br&quot;&gt;www.luis-ti.dev.br&lt;&#x2F;a&gt;&lt;&#x2F;center&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;experience&quot;&gt;&lt;center&gt;Experience&lt;&#x2F;center&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2010
+:   Manager at &lt;em&gt;Verdecred Inc.&lt;&#x2F;em&gt; (Buenos Aires, Argentina).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Customer Service. Sales Manager and direct marketing strategies.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2006-2010
+:   Manager at &lt;em&gt;Dominus Mercedes Inc.&lt;&#x2F;em&gt; (Buenos Aires, Argentina).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manager. Attention to businesses and their adhesion to the credit system..&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;open-source-contributions&quot;&gt;&lt;center&gt;Open Source Contributions&lt;&#x2F;center&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2024
+:   Translation&#x27;s Contributor to &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jieiku&#x2F;abridge&quot;&gt;Abridge&lt;&#x2F;a&gt;,&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A multilingual &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt; theme.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Misc
+:   &lt;em&gt;Lua, Shell, Makefile&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;top 2% of opensource developers.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Linux
+:	Alpine.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;My daily operating system is Alpine Linux.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;education&quot;&gt;&lt;center&gt;Education&lt;&#x2F;center&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2004-2014
+:       &lt;em&gt;Bachelor&#x27;s degree in philosophy, incomplete.&lt;&#x2F;em&gt; UNSAM (National University of San Martín), Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;1997-2002
+:       &lt;em&gt;Electromechanical technician.&lt;&#x2F;em&gt; E.E.T Nº 2 Alemania (School Of Technical Education), Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>
