@@ -14,6 +14,21 @@ assets = "cert/"
 
 {{ m00main() }}
 
-[Certificados da Linux Foundation](@/blog/certificados/lxf/index.md)
+#### Todos os meus certificados das seguintes instituições:
+
+
+- [CGI.bri-NIC.br-Ceptro.br](@/blog/certificados/nic/index.md).
+
+- [Ubiquiti](@/blog/certificados/ui/index.md).
+
+- [Tic em Trilhas](@/blog/certificados/tic/index.md).
+
+- [IFRS](@/blog/certificados/ifrs/index.md).
+
+- [Cisco](@/blog/certificados/cisco/index.md).
+
+- [Datadog Learning Center](@/blog/certificados/datadog/index.md).
+
+- [Linux Foundation](@/blog/certificados/lxf/index.md)
 
 {{ m00backtop() }}
