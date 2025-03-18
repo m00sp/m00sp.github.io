@@ -8,19 +8,17 @@ draft = false
 [taxonomies]
 [extra]
 keywords = "CGI.br,NIC.br,Ceptro.br, Certificados"
-toc = true
+toc = false
 assets = "cert/"
 +++
 
 {{ m00main() }}
 
-Certificados das seguintes instituções:
+- [CGI.br](https://cgi.br/) (*Comitê Gestor da Internet no Brasil*).
 
-- [CGI.br](https://cgi.br/).
+- [NIC.br](https://nic.br/) (*Núcleo de Informação e Coordenação do Ponto BR*).
 
-- [NIC.br](https://nic.br/).
-
-- [Ceptro.br](https://ceptro.br/).
+- [Ceptro.br](https://ceptro.br/) (*Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações*).
 
 <div style="text-align: center;">
 

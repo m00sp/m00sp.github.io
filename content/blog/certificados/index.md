@@ -7,8 +7,8 @@ draft = false
 
 [taxonomies]
 [extra]
-keywords = "Foundação Linux, CGI.br, NIC.br, Ceptro.br, Netacad, Cisco, IFRS, Datadog, Certificado"
-toc = true
+keywords = "Foundação Linux, CGI.br, NIC.br, Ceptro.br, Netacad, Cisco, IFRS, Datadog, TICemtrilhas, Certificado"
+toc = false
 assets = "cert/"
 +++
 
@@ -17,7 +17,7 @@ assets = "cert/"
 #### Todos os meus certificados das seguintes instituições:
 
 
-- [CGI.bri-NIC.br-Ceptro.br](@/blog/certificados/nic/index.md).
+- [CGI.br-NIC.br-Ceptro.br](@/blog/certificados/nic/index.md).
 
 - [Ubiquiti](@/blog/certificados/ui/index.md).
 
