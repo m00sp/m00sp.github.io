@@ -17,18 +17,18 @@ assets = "cert/"
 #### All my certificates from the following institutions:
 
 
-- [CGI.br-NIC.br-Ceptro.br](@/blog/certificados/nic/index.en.md).
+- ##### [CGI.br-NIC.br-Ceptro.br](@/blog/certificados/nic/index.en.md).
 
-- [Ubiquiti](@/blog/certificados/ui/index.en.md).
+- ##### [Ubiquiti](@/blog/certificados/ui/index.en.md).
 
-- [IFRS](@/blog/certificados/ifrs/index.en.md).
+- ##### [IFRS](@/blog/certificados/ifrs/index.en.md).
 
-- [TIC em Trilhas](@/blog/certificados/tic/index.en.md).
+- ##### [TIC em Trilhas](@/blog/certificados/tic/index.en.md).
 
-- [Cisco Networking Academy](@/blog/certificados/cisco/index.en.md).
+- ##### [Cisco Networking Academy](@/blog/certificados/cisco/index.en.md).
 
-- [Datadog Learning Center](@/blog/certificados/datadog/index.en.md).
+- ##### [Datadog Learning Center](@/blog/certificados/datadog/index.en.md).
 
-- [Linux Foundation](@/blog/certificados/lxf/index.en.md)
+- ##### [Linux Foundation](@/blog/certificados/lxf/index.en.md)
 
 {{ m00backtop() }}

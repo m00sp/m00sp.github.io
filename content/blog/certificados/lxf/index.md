@@ -1,15 +1,18 @@
 +++
-title = "Certificados da Fundação Linux"
+title = "Fundação Linux"
 description = "Aqui estão todos meus certificados atualizados da Fundação Linux"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
-[taxonomies]
 [extra]
-keywords = "Fundação Linux, Certificado"
+keywords = "Fundação Linux, Certificados"
+series = "Certificados"
 toc = false
 assets = "cert/"
+
+[taxonomies]
+tags = ["Certificados"]
 +++
 
 {{ m00main() }}

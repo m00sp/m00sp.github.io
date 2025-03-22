@@ -1,15 +1,18 @@
 +++
-title = "Datadog Learning Center Certificates"
+title = "Datadog Learning Center"
 description = "Datadog Learning Center Certificates"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
-[taxonomies]
 [extra]
 keywords = "Datadog Learning Center, Certificates"
+series = "Certificates"
 toc = false
 assets = "cert/"
+
+[taxonomies]
+tags = ["Certificates"]
 +++
 
 {{ m00main() }}

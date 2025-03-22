@@ -5,11 +5,14 @@ date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
-[taxonomies]
 [extra]
 keywords = "IFRS, Certificate"
+series = "Certificates"
 toc = false
 assets = "cert/"
+
+[taxonomies]
+tags = ["Certificates"]
 +++
 
 {{ m00main() }}

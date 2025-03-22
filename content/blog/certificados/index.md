@@ -7,7 +7,7 @@ draft = false
 
 [taxonomies]
 [extra]
-keywords = "Foundação Linux, CGI.br, NIC.br, Ceptro.br, Netacad, Cisco, IFRS, Datadog, TICemtrilhas, Certificado"
+keywords = "Fundação Linux, CGI.br, NIC.br, Ceptro.br, Netacad, Cisco, IFRS, Datadog, TICemtrilhas, Certificados"
 toc = false
 assets = "cert/"
 +++
@@ -16,19 +16,18 @@ assets = "cert/"
 
 #### Todos os meus certificados das seguintes instituições:
 
+- ##### [CGI.br-NIC.br-Ceptro.br](@/blog/certificados/nic/index.md).
 
-- [CGI.br-NIC.br-Ceptro.br](@/blog/certificados/nic/index.md).
+- ##### [Ubiquiti](@/blog/certificados/ui/index.md).
 
-- [Ubiquiti](@/blog/certificados/ui/index.md).
+- ##### [IFRS](@/blog/certificados/ifrs/index.md).
 
-- [IFRS](@/blog/certificados/ifrs/index.md).
+- ##### [TIC em Trilhas](@/blog/certificados/tic/index.md).
 
-- [TIC em Trilhas](@/blog/certificados/tic/index.md).
+- ##### [Cisco Networking Academy](@/blog/certificados/cisco/index.md).
 
-- [Cisco Networking Academy](@/blog/certificados/cisco/index.md).
+- ##### [Datadog Learning Center](@/blog/certificados/datadog/index.md).
 
-- [Datadog Learning Center](@/blog/certificados/datadog/index.md).
-
-- [Linux Foundation](@/blog/certificados/lxf/index.md)
+- ##### [Linux Foundation](@/blog/certificados/lxf/index.md)
 
 {{ m00backtop() }}

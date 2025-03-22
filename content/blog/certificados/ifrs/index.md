@@ -1,15 +1,18 @@
 +++
-title = "Certificados IFRS"
+title = "IFRS"
 description = "Aqui estão todos meus certificados atualizados do IFRS"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
-[taxonomies]
 [extra]
-keywords = "IFRS, Certificado"
+keywords = "IFRS, Certificados"
+series = "Certificados"
 toc = false
 assets = "cert/"
+
+[taxonomies]
+tags = ["Certificados"]
 +++
 
 {{ m00main() }}
