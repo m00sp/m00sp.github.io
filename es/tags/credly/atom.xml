@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Luis-TI.dev.br - Credly</title>
+    <subtitle>Hardware y Software</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://luis-ti.dev.br/es/tags/credly/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://luis-ti.dev.br"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-03T00:00:00+00:00</updated>
+    <id>https://luis-ti.dev.br/es/tags/credly/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Credly</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/es/blog/credenciais/"/>
+        <id>https://luis-ti.dev.br/es/blog/credenciais/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/es/blog/credenciais/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Puedes ir a mi &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.credly.com&#x2F;users&#x2F;luis-ricardo-martinez-diaz&quot;&gt;Perfil de Credly&lt;&#x2F;a&gt; para ver mi portfolio de credenciales completo y una descripción detallada de las habilidades ganadas.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+</feed>
