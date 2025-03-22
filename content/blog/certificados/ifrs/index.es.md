@@ -1,13 +1,13 @@
 +++
 title = "Certificados IFRS"
-description = "Aqui estão todos meus certificados atualizados do IFRS"
+description = "Aquí están todos mis certificados atualizados del IFRS"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
 [taxonomies]
 [extra]
-keywords = "IFRS, Certificado"
+keywords = "IFRS, Certificados"
 toc = false
 assets = "cert/"
 +++

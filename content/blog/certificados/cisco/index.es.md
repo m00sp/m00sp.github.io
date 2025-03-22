@@ -1,13 +1,13 @@
 +++
-title = "Certificados da Cisco Networking Academy"
-description = "Aqui estão todos meus certificados atualizados da Cisco Networking"
+title = "Certificados Cisco Networking Academy"
+description = "Aquí están todos mis certificados atualizados de Cisco Networking Academy"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
 [taxonomies]
 [extra]
-keywords = "Cisco Networking Academy, Certificados"
+keywords = "Cisco Networking Academy, Certificado"
 toc = false
 assets = "cert/"
 +++

@@ -21,11 +21,11 @@ assets = "cert/"
 
 - [Ubiquiti](@/blog/certificados/ui/index.md).
 
-- [Tic em Trilhas](@/blog/certificados/tic/index.md).
-
 - [IFRS](@/blog/certificados/ifrs/index.md).
 
-- [Cisco](@/blog/certificados/cisco/index.md).
+- [TIC em Trilhas](@/blog/certificados/tic/index.md).
+
+- [Cisco Networking Academy](@/blog/certificados/cisco/index.md).
 
 - [Datadog Learning Center](@/blog/certificados/datadog/index.md).
 

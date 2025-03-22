@@ -8,14 +8,15 @@ draft = false
 [taxonomies]
 [extra]
 keywords = "Fundação Linux, Certificado"
-toc = true
+toc = false
 assets = "cert/"
 +++
 
 {{ m00main() }}
 
-Meus certificados da [Fundação Linux](https://trainingportal.linuxfoundation.org/).
+- ##### [Fundação Linux](https://trainingportal.linuxfoundation.org/).
 
+<br>
 <div style="text-align: center;">
 
 {{ m00galeria() }}

@@ -14,12 +14,13 @@ assets = "cert/"
 
 {{ m00main() }}
 
-- [CGI.br](https://cgi.br/) (*Comitê Gestor da Internet no Brasil*).
+- ##### [CGI.br](https://cgi.br/) (Comitê Gestor da Internet no Brasil).
 
-- [NIC.br](https://nic.br/) (*Núcleo de Informação e Coordenação do Ponto BR*).
+- ##### [NIC.br](https://nic.br/) (Núcleo de Informação e Coordenação do Ponto BR).
 
-- [Ceptro.br](https://ceptro.br/) (*Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações*).
+- ##### [Ceptro.br](https://ceptro.br/) (Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações).
 
+<br>
 <div style="text-align: center;">
 
 {{ m00galeria() }}

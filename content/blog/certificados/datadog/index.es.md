@@ -1,13 +1,13 @@
 +++
-title = "Certificados do Datadog Learning Center"
-description = "Aqui estão todos meus certificados atualizados do Datadog Learning Center"
+title = "Certificados de Datadog Learning Center"
+description = "Aquí están todos mis certificados atualizados de Datadog Learning Center"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
 [taxonomies]
 [extra]
-keywords = "Datadog, Certificado"
+keywords = "Datadog Learning Center, Certificados"
 toc = false
 assets = "cert/"
 +++
