@@ -1,15 +1,18 @@
 +++
-title = "Certificados TIC em trilhas"
+title = "TIC em trilhas"
 description = "Aqui estão todos meus certificados atualizados da Tic Em Trilhas"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
-[taxonomies]
 [extra]
 keywords = "TICemtrilhas, Certificados"
+series = "Certificados"
 toc = false
 assets = "cert/"
+
+[taxonomies]
+tags = ["Certificados"]
 +++
 
 {{ m00main() }}

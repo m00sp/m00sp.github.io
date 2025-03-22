@@ -1,15 +1,18 @@
 +++
-title = "Ubiquiti Academy Certificates"
+title = "Ubiquiti Academy"
 description = "Ubiquiti Academy Certificates"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
-[taxonomies]
 [extra]
 keywords = "Ubiquiti-Academy, Certificado"
+series = "Certificates"
 toc = false
 assets = "cert/"
+
+[taxonomies]
+tags = ["Certificates"]
 +++
 
 {{ m00main() }}

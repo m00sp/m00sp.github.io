@@ -1,15 +1,18 @@
 +++
-title = "Certificados CGI.br-NIC.br-Ceptro.br"
+title = "CGI.br-NIC.br-Ceptro.br"
 description = "Aqui estão todos meus certificados atualizados CGI.br-NIC.br-Ceptro.br"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
-[taxonomies]
 [extra]
 keywords = "CGI.br,NIC.br,Ceptro.br, Certificados"
+series = "Certificados"
 toc = false
 assets = "cert/"
+
+[taxonomies]
+tags = ["Certificados"]
 +++
 
 {{ m00main() }}
