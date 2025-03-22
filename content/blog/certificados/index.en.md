@@ -1,25 +1,34 @@
 +++
 title = "Certificates"
-description = "Here you can see all my updated certificates"
+description = "All my updated certificates"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
 [taxonomies]
 [extra]
-keywords = "Linux Foundation, CGI.br, NIC.br, IFRS, Cisco, Netacad, Datadog, Certificates"
-toc = true
+keywords = "Linux Foundation, CGI.br, NIC.br, Ceptro.br, Netacad, Cisco, IFRS, Datadog, TICemtrilhas, Certificates"
+toc = false
 assets = "cert/"
 +++
 
 {{ m00main() }}
 
-All my certificates from the [CGI.br](https://cgi.br/)-[NIC.br](https://nic.br/)-[Ceptro.br](https://ceptro.br/). [IFRS](https://ifrs.edu.br). [Cisco](https://www.netacad.com/). [Datadog Learning Center](https://learn.datadoghq.com/).[The Linux Foundation](https://trainingportal.linuxfoundation.org/).
+#### All my certificates from the following institutions:
 
-<div style="text-align: center;">
 
-{{ m00galeria() }}
+- [CGI.br-NIC.br-Ceptro.br](@/blog/certificados/nic/index.en.md).
 
-</div>
+- [Ubiquiti](@/blog/certificados/ui/index.en.md).
+
+- [IFRS](@/blog/certificados/ifrs/index.en.md).
+
+- [TIC em Trilhas](@/blog/certificados/tic/index.en.md).
+
+- [Cisco Networking Academy](@/blog/certificados/cisco/index.en.md).
+
+- [Datadog Learning Center](@/blog/certificados/datadog/index.en.md).
+
+- [Linux Foundation](@/blog/certificados/lxf/index.en.md)
 
 {{ m00backtop() }}

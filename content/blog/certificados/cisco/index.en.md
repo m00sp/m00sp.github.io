@@ -1,20 +1,20 @@
 +++
-title = "Certificados IFRS"
-description = "Aqui estão todos meus certificados atualizados do IFRS"
+title = "Cisco Networking Academy Certificates"
+description = "Cisco Networking Academy Certificates"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
 [taxonomies]
 [extra]
-keywords = "IFRS, Certificado"
+keywords = "Cisco Networking Academy, Certificates"
 toc = false
 assets = "cert/"
 +++
 
 {{ m00main() }}
 
-- ##### [IFRS](https://ifrs.edu.br) (Instituto Federal Rio Grande do Sul).
+- ##### [Cisco - Networking Academy](https://www.netacad.com/).
 
 <br>
 <div style="text-align: center;">

@@ -1,14 +1,14 @@
 +++
-title = "Certificados TIC em trilhas"
-description = "Aqui estão todos meus certificados atualizados da Tic Em Trilhas"
+title = "Certificates TIC em trilhas"
+description = "Tic Em Trilhas Certificates"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
 
 [taxonomies]
 [extra]
-keywords = "TICemtrilhas, Certificados"
-toc = false
+keywords = "TICemtrilhas, Certificates"
+toc = true
 assets = "cert/"
 +++
 

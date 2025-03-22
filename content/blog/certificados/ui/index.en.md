@@ -1,6 +1,6 @@
 +++
-title = "Certificados Ubiquiti Academy"
-description = "Aqui estão todos meus certificados atualizados da Ubiquiti Academy"
+title = "Ubiquiti Academy Certificates"
+description = "Ubiquiti Academy Certificates"
 date = 2024-09-03
 updated = 2024-09-03
 draft = false
