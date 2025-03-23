@@ -15,6 +15,8 @@ assets = "cert/"
 tags = ["Certificados"]
 +++
 
+{{ m00reading() }}
+
 {{ m00main() }}
 
 - ##### [CGI.br](https://cgi.br/) (Comitê Gestor da Internet no Brasil).
@@ -27,7 +29,6 @@ tags = ["Certificados"]
 <div style="text-align: center;">
 
 {{ m00galeria() }}
-
 </div>
 
 {{ m00backtop() }}
