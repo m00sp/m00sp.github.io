@@ -100,13 +100,17 @@ src="https://www.facebook.com/tr?id=1157605809271676&ev=PageView&noscript=1"
 {# esta macro no funciona #}
 {% macro m00reading() %}
 <style>
+#readingLine {
+	display: block;
+}
+
 .reading-line-container {
     position: fixed;
     top: 0;
     left: 0;
     width: 0;
     height: 6px;
-    background-image: linear-gradient(45deg, #ff7e5f, #feb47b);
+    background-image: linear-gradient(45deg, #f90, #f90);
     z-index: 1000;
 }
 
