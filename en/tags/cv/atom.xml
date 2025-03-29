@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Luis TI - CV</title>
+    <subtitle>Hardware and Software</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://luis-ti.dev.br/en/tags/cv/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://luis-ti.dev.br"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-14T00:00:00+00:00</updated>
+    <id>https://luis-ti.dev.br/en/tags/cv/atom.xml</id>
+    <entry xml:lang="en">
+        <title>My CV</title>
+        <published>2024-08-14T00:00:00+00:00</published>
+        <updated>2024-08-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/en/cv/"/>
+        <id>https://luis-ti.dev.br/en/cv/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/en/cv/">&lt;button class=&quot;no-print&quot; id=&quot;print-button&quot; onclick=&quot;imprimir()&quot; title=&quot;Imprimir&quot;&gt;
+&lt;svg fill=&quot;#000000&quot; viewBox=&quot;0 0 16 16&quot; xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; style=&quot;--darkreader-inline-fill: #000000;&quot; data-darkreader-inline-fill=&quot;&quot;&gt;&lt;g id=&quot;SVGRepo_bgCarrier&quot; stroke-width=&quot;0&quot;&gt;&lt;&#x2F;g&gt;&lt;g id=&quot;SVGRepo_tracerCarrier&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;&#x2F;g&gt;&lt;g id=&quot;SVGRepo_iconCarrier&quot;&gt; &lt;path d=&quot;M2 9V0h12v9h2v7H0V9h2zm0 2v3h12v-3H2zm1 1h2v1H3v-1zM4 2v7h8V2H4zm1 2h6v1H5V4zm0 2h6v1H5V6z&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;&#x2F;path&gt; &lt;&#x2F;g&gt;&lt;&#x2F;svg&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+function imprimir() {
+  window.print();
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+&lt;h2 id=&quot;luis-ricardo-martinez-diaz&quot;&gt;&lt;center&gt;Luis Ricardo Martínez Díaz&lt;&#x2F;center&gt;&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;E-mail: &lt;a href=&quot;mailto:info@luis-ti.dev.br&quot;&gt;info@luis-ti.dev.br&lt;&#x2F;a&gt;. | Mobile: &lt;a href=&quot;tel:+5511933014430&quot;&gt;5511933014430&lt;&#x2F;a&gt;. | Github: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;m00sp&quot;&gt;m00sp&lt;&#x2F;a&gt;. | Location: Vila Matilde, SP, Brazil. &lt;&#x2F;br&gt; &lt;center&gt;Site: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.luis-ti.dev.br&quot;&gt;www.luis-ti.dev.br&lt;&#x2F;a&gt;&lt;&#x2F;center&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;experience&quot;&gt;&lt;center&gt;Experience&lt;&#x2F;center&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2010
+:   Manager at &lt;em&gt;Verdecred Inc.&lt;&#x2F;em&gt; (Buenos Aires, Argentina).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Customer Service. Sales Manager and direct marketing strategies.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2006-2010
+:   Manager at &lt;em&gt;Dominus Mercedes Inc.&lt;&#x2F;em&gt; (Buenos Aires, Argentina).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manager. Attention to businesses and their adhesion to the credit system..&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;open-source-contributions&quot;&gt;&lt;center&gt;Open Source Contributions&lt;&#x2F;center&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2024
+:   Translation&#x27;s Contributor to &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jieiku&#x2F;abridge&quot;&gt;Abridge&lt;&#x2F;a&gt;,&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A multilingual &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt; theme.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Misc
+:   &lt;em&gt;Lua, Shell, Makefile&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;top 2% of opensource developers.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Linux
+:	Alpine.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;My daily operating system is Alpine Linux.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;education&quot;&gt;&lt;center&gt;Education&lt;&#x2F;center&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2004-2014
+:       &lt;em&gt;Bachelor&#x27;s degree in philosophy, incomplete.&lt;&#x2F;em&gt; UNSAM (National University of San Martín), Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;1997-2002
+:       &lt;em&gt;Electromechanical technician.&lt;&#x2F;em&gt; E.E.T Nº 2 Alemania (School Of Technical Education), Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>

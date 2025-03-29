@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
+    <title>Luis-TI.dev.br</title>
+    <subtitle>Hardware e Software</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://luis-ti.dev.br/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://luis-ti.dev.br"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-31T15:00:00+00:00</updated>
+    <id>https://luis-ti.dev.br/atom.xml</id>
+    <entry xml:lang="pt">
+        <title>Resumo do site</title>
+        <published>2024-10-31T15:00:00+00:00</published>
+        <updated>2024-10-31T15:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/resumo/"/>
+        <id>https://luis-ti.dev.br/blog/resumo/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/resumo/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Tradução em processo.&lt;&#x2F;p&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>Certificados</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;h4 id=&quot;todos-os-meus-certificados-das-seguintes-instituicoes&quot;&gt;Todos os meus certificados das seguintes instituições:&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;cgi-br-nic-br-ceptro-br&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;&quot;&gt;CGI.br-NIC.br-Ceptro.br&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;ubiquiti&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ui&#x2F;&quot;&gt;Ubiquiti&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;ifrs&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ifrs&#x2F;&quot;&gt;IFRS&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;tic-em-trilhas&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;tic&#x2F;&quot;&gt;TIC em Trilhas&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;cisco-networking-academy&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;cisco&#x2F;&quot;&gt;Cisco Networking Academy&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;datadog-learning-center&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;datadog&#x2F;&quot;&gt;Datadog Learning Center&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;linux-foundation&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;&quot;&gt;Linux Foundation&lt;&#x2F;a&gt;&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>Cisco Networking Academy</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/cisco/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/cisco/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/cisco/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;cisco-networking-academy&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.netacad.com&#x2F;&quot;&gt;Cisco - Networking Academy&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;cisco&#x2F;Cisco-computer-hardware-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Cisco-computer-hardware-fs8.c5705bd6ff313791.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;cisco&#x2F;cisco-cyber-essentials.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;cisco-cyber-essentials.0707a5717b489353.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;cisco&#x2F;cisco-intro-cyber.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;cisco-intro-cyber.05dfc57e5eebe478.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;cisco&#x2F;Networking_Basics_certificate_info-luis-ti-dev-br_64900ef3-a826-4864-bcae-bc250f11d56d.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Networking_Basics_certificate_info-luis-ti-dev-br_64900ef3-a826-4864-bcae-bc250f11d56d.91fe41d6d34b51c7.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>Datadog Learning Center</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/datadog/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/datadog/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/datadog/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;datadog-learning-center&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;learn.datadoghq.com&#x2F;&quot;&gt;Datadog Learning Center&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;datadog&#x2F;Luis Martinez - 2024-09-16-1.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Luis Martinez - 2024-09-16-1.22a8669aef49cbe7.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;datadog&#x2F;Luis Martinez - 2024-09-16.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Luis Martinez - 2024-09-16.ff90687d26185d26.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;datadog&#x2F;Luis Martinez - 2024-09-17.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Luis Martinez - 2024-09-17.5f9856e4d2386ff2.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;datadog&#x2F;Luis Martinez - 2024-09-23.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Luis Martinez - 2024-09-23.f77033b9f9a6a975.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;datadog&#x2F;Luis Ricardo Martínez Díaz - 2024-11-25-1.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Luis Ricardo Martínez Díaz - 2024-11-25-1.916a72e0dbba1370.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;datadog&#x2F;Luis Ricardo Martínez Díaz - 2024-11-25.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;Luis Ricardo Martínez Díaz - 2024-11-25.0cee2c1613a6bfc5.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>IFRS</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/ifrs/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/ifrs/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/ifrs/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;ifrs-instituto-federal-rio-grande-do-sul&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ifrs.edu.br&quot;&gt;IFRS&lt;&#x2F;a&gt; (Instituto Federal Rio Grande do Sul).&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ifrs&#x2F;ch-ifrs-compu-funda-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;ch-ifrs-compu-funda-fs8.d6928fa53ce2c2f7.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ifrs&#x2F;ch-ifrs-css3.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;ch-ifrs-css3.84df0fe30b2b56a3.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ifrs&#x2F;ch-ifrs-html5-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;ch-ifrs-html5-fs8.835121e22fdf25bc.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ifrs&#x2F;ch-ifrs-js.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;ch-ifrs-js.f52681dd8284b0f7.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ifrs&#x2F;ch-ifrs-lógica-fs8.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;ch-ifrs-lógica-fs8.f47e030419a4011d.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ifrs&#x2F;ch-ifrs-prog-web.png&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;ch-ifrs-prog-web.6a9982ec31db9eed.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>Fundação Linux</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/lxf/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/lxf/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/lxf/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;fundacao-linux&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;trainingportal.linuxfoundation.org&#x2F;&quot;&gt;Fundação Linux&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-10d7ad8f-8921-4cf0-8647-9a6a7a50f9cb-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-10d7ad8f-8921-4cf0-8647-9a6a7a50f9cb-certificate.e03e9a5ef9f04c46.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-21d518a9-5e68-4ce7-ad7e-47d67a986e4b-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-21d518a9-5e68-4ce7-ad7e-47d67a986e4b-certificate.882d1e06fb03c97c.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-2511d342-bef4-40da-825c-eeec6c1c4bbb-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-2511d342-bef4-40da-825c-eeec6c1c4bbb-certificate.6df872b9ab331e92.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-3249eff9-35bd-4803-89a9-e2875bd90df1-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-3249eff9-35bd-4803-89a9-e2875bd90df1-certificate.8a1abf7e1d9c134f.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-42ebe093-f896-48ff-8037-126c742ad3bd-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-42ebe093-f896-48ff-8037-126c742ad3bd-certificate.9738d40fb562cc92.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-4ccddac2-62c4-4873-b783-586834d627fa-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-4ccddac2-62c4-4873-b783-586834d627fa-certificate.f0b80163c03dd0d7.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-4f0a9e7f-0711-4b40-a93b-8b5e3c249330-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-4f0a9e7f-0711-4b40-a93b-8b5e3c249330-certificate.73e5cba81951b9f6.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-5b6511c0-33e6-47e2-b57f-9e2110404c19-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-5b6511c0-33e6-47e2-b57f-9e2110404c19-certificate.09cff46b9aa33332.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-71d48ac3-f709-46e3-9b6a-b600125aae92-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-71d48ac3-f709-46e3-9b6a-b600125aae92-certificate.e186b56eb4dcfae0.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-75ca0949-ff11-4f90-9814-7082f43d2d81-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-75ca0949-ff11-4f90-9814-7082f43d2d81-certificate.0bc0fb48335b5e02.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-8f410fe5-7d38-4b9a-94b0-f4b0dbe98177-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-8f410fe5-7d38-4b9a-94b0-f4b0dbe98177-certificate.b81dd77515273996.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-96dc90a2-2136-4947-9db3-bc9f6f0701fc-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-96dc90a2-2136-4947-9db3-bc9f6f0701fc-certificate.e9e78aa720b885ae.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-a51b7620-f3e2-4771-9623-0456022b23e0-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-a51b7620-f3e2-4771-9623-0456022b23e0-certificate.191f583257dabe05.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-a92266ac-4385-49fc-b194-ff39ca0ed701-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-a92266ac-4385-49fc-b194-ff39ca0ed701-certificate.3d126142f13ba978.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-afabf1b9-af6a-4f0a-bb51-41858960804c-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-afabf1b9-af6a-4f0a-bb51-41858960804c-certificate.27c122f349f2a39c.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-b6acc600-5412-4aa9-a997-58c144c6ba51-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-b6acc600-5412-4aa9-a997-58c144c6ba51-certificate.88fe221abae47b99.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-b9c94545-220b-406d-a5ff-7aba459cabda-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-b9c94545-220b-406d-a5ff-7aba459cabda-certificate.0ad67e76afc7e171.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-c196c30c-2605-4195-ae47-6c24ca6f5232-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-c196c30c-2605-4195-ae47-6c24ca6f5232-certificate.fc0d91da2ecddc7b.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-cb3fa59e-9958-4b53-8a82-1adf894e7426-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-cb3fa59e-9958-4b53-8a82-1adf894e7426-certificate.148844070a08e2a2.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-d0fc301d-a2a4-4b24-9925-092947d95c49-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-d0fc301d-a2a4-4b24-9925-092947d95c49-certificate.76b32e878d78e08f.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-d190ce6d-2f7b-41d4-afe0-a3286ed42586-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-d190ce6d-2f7b-41d4-afe0-a3286ed42586-certificate.d1a0f40290c3599a.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-d1c6c186-8af7-4e4c-b215-6135e48ed345-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-d1c6c186-8af7-4e4c-b215-6135e48ed345-certificate.fe4a34039323fa20.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-de20ba08-3458-49b4-88e0-a72e0921e1cc-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-de20ba08-3458-49b4-88e0-a72e0921e1cc-certificate.9f758fb6b4f1634d.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-f9c155ff-affd-4fd3-a5a5-14d38559c0f4-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-f9c155ff-affd-4fd3-a5a5-14d38559c0f4-certificate.e2188cd221343664.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;lxf&#x2F;luis-ricardo-martnez-daz-fb5f298b-4abd-49fe-9088-a930041fe761-certificate.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;luis-ricardo-martnez-daz-fb5f298b-4abd-49fe-9088-a930041fe761-certificate.192dc9cc0325cca3.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>CGI.br-NIC.br-Ceptro.br</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/nic/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/nic/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/nic/">&lt;style&gt;
+.reading-line-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 6px;
+    background-image: linear-gradient(45deg, #ff7e5f, #feb47b);
+    z-index: 1000;
+}
+
+.reading-line-container::after {
+    position: absolute;
+    top: 1px;
+    right: 2px;
+    font-size: 10px;
+    color: #333;
+}
+&lt;&#x2F;style&gt;
+&lt;div class=&quot;reading-line-container&quot; id=&quot;readingLine&quot; data-progress=&quot;0&quot;&gt;&lt;&#x2F;div&gt;
+&lt;script&gt;
+  document.addEventListener(&#x27;DOMContentLoaded&#x27;, function() {
+    const readingLine = document.getElementById(&#x27;readingLine&#x27;);
+    const windowHeight = window.innerHeight;
+    const totalScrollHeight = document.body.clientHeight - windowHeight;
+
+    window.addEventListener(&#x27;scroll&#x27;, function() {
+      const scrollPosition = window.scrollY;
+      const scrollPercentage = (scrollPosition &#x2F; totalScrollHeight) * 100;
+      const lineWidth = Math.min(scrollPercentage, 100); 
+
+      readingLine.style.width = lineWidth + &#x27;%&#x27;;
+      readingLine.setAttribute(&#x27;data-progress&#x27;, Math.round(lineWidth));
+    });
+  });
+&lt;&#x2F;script&gt;
+
+&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;cgi-br-comite-gestor-da-internet-no-brasil&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cgi.br&#x2F;&quot;&gt;CGI.br&lt;&#x2F;a&gt; (Comitê Gestor da Internet no Brasil).&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;nic-br-nucleo-de-informacao-e-coordenacao-do-ponto-br&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nic.br&#x2F;&quot;&gt;NIC.br&lt;&#x2F;a&gt; (Núcleo de Informação e Coordenação do Ponto BR).&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h5 id=&quot;ceptro-br-centro-de-estudos-e-pesquisas-em-tecnologia-de-redes-e-operacoes&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ceptro.br&#x2F;&quot;&gt;Ceptro.br&lt;&#x2F;a&gt; (Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações).&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-0-14-SEMANA-DE-INFRAESTRUTURA-DA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302613.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-0-14-SEMANA-DE-INFRAESTRUTURA-DA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302613.d507d5ca1a3199be.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-1-14-SEMANA-DE-INFRAESTRUTURA-DA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302614.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-1-14-SEMANA-DE-INFRAESTRUTURA-DA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302614.5274a5b20828bc8b.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-18-IX-FORUM-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302615.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-18-IX-FORUM-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302615.f4ceb05303fdb3c1.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-3-14-SEMANA-DE-INFRAESTRUTURA-DA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302616.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-3-14-SEMANA-DE-INFRAESTRUTURA-DA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-302616.f9e4cb2f7c382e08.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-DB50F0CE2508E776E9F7432EDC3D7DB1-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-183452.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-DB50F0CE2508E776E9F7432EDC3D7DB1-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-183452.cf78206207bcdeca.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-DB57D1ACB1E56983916992547BD82BB8-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-183451.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-DB57D1ACB1E56983916992547BD82BB8-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-183451.8004d96dd5abcb65.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-ENCONTRO-MARK-COECKELBERGH-IA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-301907.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-ENCONTRO-MARK-COECKELBERGH-IA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-301907.8a80eb4444c7bdcf.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-INTRA-REDE-EP34-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-301642.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-INTRA-REDE-EP34-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-301642.ccff24508756f1a9.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-RF-WIFI-PARCERIA-UBIQUITI-15-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-193727.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-RF-WIFI-PARCERIA-UBIQUITI-15-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-193727.3ad4d513382591c0.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-SEMCAP9-TURMA-1-INCIDENTE-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181457.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-SEMCAP9-TURMA-1-INCIDENTE-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181457.f89d8681d182bd17.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-SEMCAP9-TURMA-2-DWDM-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181458.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-SEMCAP9-TURMA-2-DWDM-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181458.b32442fb2b1d9f8f.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-SEMCAP9-TURMA-3-VULNERABILIDADE-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181456.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-SEMCAP9-TURMA-3-VULNERABILIDADE-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181456.596291d7bf7cb979.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-SEMCAP9-TURMA-4-SDWAN-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181455.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-SEMCAP9-TURMA-4-SDWAN-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181455.2bbb093aa5455adf.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;nic&#x2F;CERTIFICADO-SEMCAP9-TURMA-5-QUANTICA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181454.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;CERTIFICADO-SEMCAP9-TURMA-5-QUANTICA-LUIS-RICARDO-MARTíNEZ-DíAZ-116672-181454.e7f3c91a2c933952.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>TIC em trilhas</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/tic/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/tic/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/tic/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;tic-em-trilhas&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ticemtrilhas.org.br&#x2F;&quot;&gt;TIC em trilhas&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>Ubiquiti Academy</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/certificados/ui/"/>
+        <id>https://luis-ti.dev.br/blog/certificados/ui/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/certificados/ui/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h5 id=&quot;ubiquiti-academy&quot;&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;training.ui.com&#x2F;&quot;&gt;Ubiquiti Academy&lt;&#x2F;a&gt;.&lt;&#x2F;h5&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;div&gt;
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;luis-ti.dev.br&#x2F;blog&#x2F;certificados&#x2F;ui&#x2F;certificate-UWS-v3.1.webp&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;luis-ti.dev.br&amp;#x2F;processed_images&amp;#x2F;certificate-UWS-v3.1.07506651bd84bf09.webp&quot; width=&quot;435&quot; height=&quot;345&quot; alt=&quot;Cert&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>Credly</title>
+        <published>2024-09-03T00:00:00+00:00</published>
+        <updated>2024-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/blog/credenciais/"/>
+        <id>https://luis-ti.dev.br/blog/credenciais/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/blog/credenciais/">&lt;div id=&quot;main&quot; tabindex=&quot;-1&quot;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Você pode ir ao meu &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.credly.com&#x2F;users&#x2F;luis-ricardo-martinez-diaz&quot;&gt;Perfil da Credly&lt;&#x2F;a&gt; para ver meu portfolio de credenciais completo e uma descrição detalhada das habilidades ganhadas.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+
+&lt;&#x2F;div&gt;
+&lt;button onclick=&quot;topFunction()&quot; id=&quot;myBtn&quot; class=&quot;top&quot; title=&quot;Voltar ao Topo&quot;&gt;&lt;i class=&quot;svg angu&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+&#x2F;&#x2F; Get the button:
+let mybutton = document.getElementById(&quot;myBtn&quot;);
+
+&#x2F;&#x2F; When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop &gt; 20 || document.documentElement.scrollTop &gt; 20) {
+    mybutton.style.display = &quot;block&quot;;
+  } else {
+    mybutton.style.display = &quot;none&quot;;
+  }
+}
+
+&#x2F;&#x2F; When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; &#x2F;&#x2F; For Safari
+  document.documentElement.scrollTop = 0; &#x2F;&#x2F; For Chrome, Firefox, IE and Opera
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="pt">
+        <title>Meu CV</title>
+        <published>2024-08-14T00:00:00+00:00</published>
+        <updated>2024-08-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://luis-ti.dev.br/cv/"/>
+        <id>https://luis-ti.dev.br/cv/</id>
+        
+        <content type="html" xml:base="https://luis-ti.dev.br/cv/">&lt;button class=&quot;no-print&quot; id=&quot;print-button&quot; onclick=&quot;imprimir()&quot; title=&quot;Imprimir&quot;&gt;
+&lt;svg fill=&quot;#000000&quot; viewBox=&quot;0 0 16 16&quot; xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; style=&quot;--darkreader-inline-fill: #000000;&quot; data-darkreader-inline-fill=&quot;&quot;&gt;&lt;g id=&quot;SVGRepo_bgCarrier&quot; stroke-width=&quot;0&quot;&gt;&lt;&#x2F;g&gt;&lt;g id=&quot;SVGRepo_tracerCarrier&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;&#x2F;g&gt;&lt;g id=&quot;SVGRepo_iconCarrier&quot;&gt; &lt;path d=&quot;M2 9V0h12v9h2v7H0V9h2zm0 2v3h12v-3H2zm1 1h2v1H3v-1zM4 2v7h8V2H4zm1 2h6v1H5V4zm0 2h6v1H5V6z&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;&#x2F;path&gt; &lt;&#x2F;g&gt;&lt;&#x2F;svg&gt;&lt;&#x2F;button&gt;
+&lt;script&gt;
+function imprimir() {
+  window.print();
+}
+&lt;&#x2F;script&gt;
+&lt;!--
+
+&lt;div class=&quot;user-details&quot;&gt;
+&lt;a class=&quot;top&quot; href=&quot;#&quot; data-scroll&gt;&lt;i class=&quot;icon fa fa-chevron-up&quot; aria-hidden=&quot;true&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+
+
+
+&lt;main&gt;
+ &lt;button type=button class=&quot;md-top md-icon&quot; data-md-component=top hidden&gt; &lt;svg xmlns=http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg viewbox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&#x2F;&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+&lt;&#x2F;main&gt;i
+
+&lt;button type=&quot;button&quot; class=&quot;md-top md-icon&quot; data-md-component=&quot;top&quot; style=&quot;top: 64px;&quot; hidden=&quot;&quot; tabindex=&quot;-1&quot;&gt; &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;svg&gt; Back to top &lt;&#x2F;button&gt;
+
+ --&gt;
+&lt;h2 id=&quot;luis-ricardo-martinez-diaz&quot;&gt;&lt;center&gt;Luis Ricardo Martínez Díaz&lt;&#x2F;center&gt;&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;E-mail: &lt;a href=&quot;mailto:info@luis-ti.dev.br&quot;&gt;info@luis-ti.dev.br&lt;&#x2F;a&gt;. | Celular: &lt;a href=&quot;tel:+5511933014430&quot;&gt;5511933014430&lt;&#x2F;a&gt;. | Github: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;m00sp&quot;&gt;m00sp&lt;&#x2F;a&gt;. | Localização: Vila Matilde, SP, Brasil. &lt;&#x2F;br&gt; Site: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.luis-ti.dev.br&quot;&gt;www.luis-ti.dev.br&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;habilidades&quot;&gt;Habilidades&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Linguagens de programação e Tecnologias&lt;&#x2F;strong&gt;
+:	Rust, Posix shell, Lua, Docker, git, github, Makefile, k8s, HTML, Markdown, SASS, CSS, CI&#x2F;CD. &lt;&#x2F;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;OSes&lt;&#x2F;strong&gt;:	Linux, Windows, macOS e Android. Meu sistema operacional de uso diário é Alpine Linux. &lt;&#x2F;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Idiomas&lt;&#x2F;strong&gt;
+:   &lt;em&gt;Inglês&lt;&#x2F;em&gt; e &lt;em&gt;Espanhol&lt;&#x2F;em&gt;. Nivel avançado, falado e escrito.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;experiencia&quot;&gt;Experiência&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2015-Presente
+:	Trabalhando como programador autônomo e fornecendo assistência técnica, presencial e remota, a usuários finais.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suporte técnico direto em Hardware e Software. &lt;strong&gt;Hardware&lt;&#x2F;strong&gt;, computadores e notebooks, manuntenção, limpeza, atualização, melhora e otimização. Substituições de HDs, SSDs, placas de vídeo, processadores, adição de memória RAM, etc. &lt;strong&gt;Software&lt;&#x2F;strong&gt;,  administração de sistemas operacionais Linux, Android e Windows NT, migração de dados, cópias de segurança, mapeamento e monitoramento de redes, configuração de serviços vários.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2014
+:	&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FYszthdJU8c&amp;amp;pp=ygUXZnVlcnphIGJydXRhIHdheXJhIDIwMTQ%3D&quot;&gt;Fuerza Bruta Wayra&lt;&#x2F;a&gt;, CCR (Centro Cultural Recoleta), Capital Federal, Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rigger. Técnico de segurança em altura. No final do ano.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2014
+:	Plan &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.argentina.gob.ar&#x2F;educacion&#x2F;fines&quot;&gt;FinEs&lt;&#x2F;a&gt;, Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor de várias matérias ao longo do ano em diferentes centros de educação para adultos em processo de conclução do ensino medio.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2011-2013
+:   &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.unsam.edu.ar&#x2F;escuelas&#x2F;eh&#x2F;&quot;&gt;UNSAM Escuela de humanidades&lt;&#x2F;a&gt;, (Universidade Nacional de San Martín, escola de ciências humanas), Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensino: assistente de trabalhos práticos. Materia: Lógica.&lt;&#x2F;li&gt;
+&lt;li&gt;Bolsista do &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cin.edu.ar&#x2F;&quot;&gt;CIN&lt;&#x2F;a&gt; (Conselho Interuniversitário Nacional). Estímulo à vocação científica.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2006-2010
+:   Financeiras: &lt;em&gt;OriginalCred&lt;&#x2F;em&gt;, &lt;em&gt;SuCred&lt;&#x2F;em&gt;, &lt;em&gt;Dominus Mercedes&lt;&#x2F;em&gt;, &lt;em&gt;Niagus&lt;&#x2F;em&gt;, &lt;em&gt;VerdeCred&lt;&#x2F;em&gt;. (Buenos Aires, Argentina).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gerente geral. Assistência técnica a lojas e sua adesão ao sistema de crédito direcionado.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2002-2006 &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ilvem.com&#x2F;&quot;&gt;ILVEM&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; (Capital Federal, Buenos Aires, Argentina)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor de cursos de leitura rápida, memória e métodos de estudo. Apresentações demonstrativas na Capital Federal e no interior do país para a franquia Ilvem interior. Vendas de cursos, treinamento e assessoria para alunos e vendedores.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;educacao&quot;&gt;&lt;strong&gt;Educação&lt;&#x2F;strong&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;2004-2014
+:       &lt;em&gt;Bacharelado e professorado en Filosofía&lt;&#x2F;em&gt;, UNSAM (Universidade Nacional de San Martín), Buenos Aires, Argentina. &lt;strong&gt;Incompleto&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;1997-2002
+:       &lt;em&gt;Bacharel com orientação em bens e serviços, especialidade electromecânica&lt;&#x2F;em&gt;. E. E. T. Nº 2 Alemania (Escola de Educação Técnica), Buenos Aires, Argentina. &lt;strong&gt;Completo&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;contribuicoes-open-source&quot;&gt;&lt;strong&gt;Contribuições Open Source&lt;&#x2F;strong&gt;&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Traduções para &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jieiku&#x2F;abridge&quot;&gt;Abridge&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; e &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdesk&#x2F;rustdesk-server-demo&quot;&gt;rustdesk&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;, entre outras. Eu colaboro com várias traduções ao espanhol e ao português para projetos de código aberto, a maioria deles está disponível no github.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meus projetos
+:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;m00sp&#x2F;m00wm&quot;&gt;m00wm&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;, um gerenciador de janelas em mosaico escrito na linguagem de programação &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; para o sistema operacional &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;alpinelinux.org&quot;&gt;Alpine Linux&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; que pode ser integrado ao &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;kde.org&#x2F;plasma-desktop&#x2F;&quot;&gt;Plasma Desktop&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; de &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;kde.org&quot;&gt;KDE&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;. Em fase &lt;strong&gt;Beta&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;m00sp&#x2F;m00alpineupdate&quot;&gt;m00alpineupdate&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;, um gerenciador de atualizações escrito na linguagem de programação &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; para o sistema operacional &lt;em&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;alpinelinux.org&quot;&gt;Alpine Linux&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;.  &lt;em&gt;&lt;strong&gt;idem.&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>

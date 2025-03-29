@@ -1,0 +1,6 @@
+Contact: https://luis-ti.dev.br/contato
+Expires: 2026-03-27T00:00:00.000Z
+Acknowledgments: https://luis-ti.dev.br/obrigado
+Preferred-Languages: pt, es, en
+Canonical: https://luis-ti.dev.br/.well-known/security.txt
+Policy: https://luis-ti.dev.br/privacidade
